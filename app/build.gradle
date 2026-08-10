@@ -10,7 +10,7 @@ android {
         disable 'MissingTranslation', 'GoogleAppIndexingWarning'
     }
 
-    namespace MyApp.appId
+    namespace "dev.jahir.blueprint.app"
     defaultConfig {
         buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
         manifestPlaceholders = [

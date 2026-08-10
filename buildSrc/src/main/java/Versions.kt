@@ -12,7 +12,7 @@ object Versions {
     // App
     const val minSdk = 23
     const val targetSdk = 36
-    const val buildTools = "36.0.0"
+    const val buildTools = "35.0.0"
 
     // Blueprint
     const val blueprint = "2.5.1"

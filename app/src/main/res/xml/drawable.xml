@@ -1,52 +1,5772 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <resources>
 
-    <version>1</version>
 
-    <category title="Latest" />
+    <category title="没有分类" />
 
-    <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
 
-    <category title="Google Apps" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <item name="Smartisan OS" drawable="iconea4a36c1" />
 
-    <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
 
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
+    <item name="时钟" drawable="icon8c479ae4" />
 
-    <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
 
+    <item name="钱包" drawable="icon8ad6be2e" />
+
+
+    <item name="天气" drawable="iconf9f8cc94" />
+
+
+    <item name="游戏中心" drawable="icon685a9e79" />
+
+
+    <item name="便签" drawable="icon632a0c32" />
+
+
+    <item name="设置" drawable="icon3b22ef3f" />
+
+
+    <item name="手机管家" drawable="icon0da52b32" />
+
+
+    <item name="手机搬家" drawable="iconca0864e8" />
+
+
+    <item name="58同城" drawable="iconb8fdfbf4" />
+
+
+    <item name="阿里云盘" drawable="icon6b74cbc5" />
+
+
+    <item name="百度" drawable="icon82d3ce31" />
+
+
+    <item name="百度地图" drawable="iconc4cef48f" />
+
+
+    <item name="百度网盘" drawable="icon23ffbf42" />
+
+
+    <item name="百度贴吧" drawable="icond39f20dc" />
+
+
+    <item name="百度文库" drawable="icon196f651f" />
+
+
+    <item name="锤子便签" drawable="iconb75dd017" />
+
+
+    <item name="拨号" drawable="icon70d5903a" />
+
+
+    <item name="菜鸟" drawable="icona42e3c53" />
+
+
+    <item name="电话本" drawable="icond2a2246c" />
+
+
+    <item name="东方财富股票" drawable="icon17f529a6" />
+
+
+    <item name="钉钉" drawable="iconbe8fd74b" />
+
+
+    <item name="抖音" drawable="icone5100cd9" />
+
+
+    <item name="番茄免费小说" drawable="icon92b4efcf" />
+
+
+    <item name="饿了么" drawable="iconc74564c5" />
+
+
+    <item name="古诗词典" drawable="icon4972d6b0" />
+
+
+    <item name="互传" drawable="icon413774ca" />
+
+
+    <item name="河南移动" drawable="icon15910acf" />
+
+
+    <item name="会话微件" drawable="icon8d44d6b0" />
+
+
+    <item name="计算器" drawable="icon30491c6b" />
+
+
+    <item name="剪映" drawable="icon761fe3e3" />
+
+
+    <item name="驾考宝典" drawable="icon218bde75" />
+
+
+    <item name="今日头条" drawable="icon157078c9" />
+
+
+    <item name="健康" drawable="icone3e26ced" />
+
+
+    <item name="京东" drawable="icone4592991" />
+
+
+    <item name="京喜" drawable="icond442b52e" />
+
+
+    <item name="京东金融" drawable="icon716fd19c" />
+
+
+    <item name="酷安" drawable="icon2bcb5b46" />
+
+
+    <item name="酷狗概念版" drawable="iconf6531243" />
+
+
+    <item name="快手" drawable="iconc013c2bb" />
+
+
+    <item name="蓝奏云" drawable="icon2286456f" />
+
+
+    <item name="快牙" drawable="icon3f83cac1" />
+
+
+    <item name="浏览器" drawable="icon0f2525fe" />
+
+
+    <item name="录音" drawable="icon2a40cd00" />
+
+
+    <item name="美团" drawable="icon9089b72c" />
+
+
+    <item name="拼图工厂" drawable="icon1272cfd3" />
+
+
+    <item name="拼多多" drawable="icon1e36ff4f" />
+
+
+    <item name="起点读书" drawable="icon9c6faa25" />
+
+
+    <item name="日历" drawable="icon2b238ee3" />
+
+
+    <item name="全球学术快报" drawable="icon332c416b" />
+
+
+    <item name="山东移动" drawable="icon3f9b5468" />
+
+
+    <item name="手机淘宝" drawable="icon463a15e0" />
+
+
+    <item name="手机天猫" drawable="icone0f0c662" />
+
+
+    <item name="数字人民币" drawable="icon1dc6efc2" />
+
+
+    <item name="顺丰速运" drawable="iconcef861da" />
+
+
+    <item name="腾讯视频" drawable="iconf4f4e0ab" />
+
+
+    <item name="腾讯微云" drawable="icon71abac18" />
+
+
+    <item name="腾讯新闻" drawable="icon86be574e" />
+
+
+    <item name="天天基金" drawable="icon395b79f5" />
+
+
+    <item name="天翼云盘" drawable="icon5f0b2511" />
+
+
+    <item name="同花顺炒股票" drawable="icond85263f8" />
+
+
+    <item name="图虫" drawable="icone9e1cf82" />
+
+
+    <item name="微博" drawable="icon44118151" />
+
+
+    <item name="唯品会" drawable="icon78618662" />
+
+
+    <item name="微视" drawable="iconc4ec89a1" />
+
+
+    <item name="微信" drawable="icon56f5c6d9" />
+
+
+    <item name="文件管理" drawable="icone25db649" />
+
+
+    <item name="西瓜视频" drawable="icon3fc06d3e" />
+
+
+    <item name="闲鱼" drawable="icon6fae22a1" />
+
+
+    <item name="喜马拉雅" drawable="icon6fed3101" />
+
+
+    <item name="相册" drawable="iconffb96a35" />
+
+
+    <item name="小布指令" drawable="icon83532f88" />
+
+
+    <item name="语音助手" drawable="iconcf7d4ceb" />
+
+
+    <item name="小游戏" drawable="iconf5de1991" />
+
+
+    <item name="携程旅行" drawable="iconf8ae0218" />
+
+
+    <item name="信息" drawable="icon0080498c" />
+
+
+    <item name="一加社区" drawable="icon74e4a7f4" />
+
+
+    <item name="音乐" drawable="icon9f3e640f" />
+
+
+    <item name="优酷视频" drawable="icone0ef3ae3" />
+
+
+    <item name="阅读" drawable="icon24bf0a01" />
+
+
+    <item name="云服务" drawable="icon96c64923" />
+
+
+    <item name="云闪付" drawable="icon328bb3e4" />
+
+
+    <item name="知乎" drawable="iconf133f104" />
+
+
+    <item name="支付宝" drawable="icon727ff5f5" />
+
+
+    <item name="指南针" drawable="icon58eee55e" />
+
+
+    <item name="智能家居" drawable="iconfeaaf975" />
+
+
+    <item name="智行火车票" drawable="icona853045a" />
+
+
+    <item name="中国建设银行" drawable="iconfab45e99" />
+
+
+    <item name="中国工商银行" drawable="icon17126a3c" />
+
+
+    <item name="中金财富" drawable="icon9afff903" />
+
+
+    <item name="Firefox" drawable="icond6c354b6" />
+
+
+    <item name="Blurone" drawable="icon03888597" />
+
+
+    <item name="Google Go" drawable="icon83d6e4ed" />
+
+
+    <item name="Flexbooru" drawable="icona5f16eab" />
+
+
+    <item name="IT之家" drawable="icon8507a6f9" />
+
+
+    <item name="MT管理器" drawable="icon511adafb" />
+
+
+    <item name="商城" drawable="iconc0c061d9" />
+
+
+    <item name="QQ" drawable="iconee080e5d" />
+
+
+    <item name="Play 商店" drawable="icon5a75170a" />
+
+
+    <item name="QQ浏览器" drawable="icon07a22fd2" />
+
+
+    <item name="SIM 卡 2 工具包" drawable="iconab2cd825" />
+
+
+    <item name="QQ音乐" drawable="icon58d43cb6" />
+
+
+    <item name="See" drawable="iconb3ecddf9" />
+
+
+    <item name="SIM 卡 1 工具包" drawable="icona2a57ff4" />
+
+
+    <item name="Twitter" drawable="iconb023f380" />
+
+
+    <item name="Telegram" drawable="icon52193d57" />
+
+
+    <item name="WPS Office" drawable="iconba47dcda" />
+
+
+    <item name="Via" drawable="icon29ebdf9c" />
+
+
+    <item name="爱奇艺" drawable="icon2ce0a53c" />
+
+
+    <item name="八闽生活" drawable="iconcd6ef3bd" />
+
+
+    <item name="薄荷健康" drawable="icon2009ad34" />
+
+
+    <item name="哔哩哔哩" drawable="icon32926d29" />
+
+
+    <item name="彩云天气" drawable="icon1e7bce72" />
+
+
+    <item name="大黄蜂播放器" drawable="iconfb1b78f2" />
+
+
+    <item name="高德地图" drawable="icon1cadbb73" />
+
+
+    <item name="谷歌相机" drawable="icona886f94b" />
+
+
+    <item name="即录剪辑" drawable="icond06ecefd" />
+
+
+    <item name="录音" drawable="icon91757a9a" />
+
+
+    <item name="夸克" drawable="iconb8bc889f" />
+
+
+    <item name="猫眼" drawable="icon5bf8827c" />
+
+
+    <item name="美团外卖" drawable="icon7db38c78" />
+
+
+    <item name="什么值得买" drawable="icon2a1ac1c0" />
+
+
+    <item name="淘票票" drawable="iconf18f5c07" />
+
+
+    <item name="铁路12306" drawable="icon9bf9ad8b" />
+
+
+    <item name="豆瓣阅读" drawable="iconbf5187f1" />
+
+
+    <item name="相机" drawable="icon9fe09e6c" />
+
+
+    <item name="小红书" drawable="icon13417ac6" />
+
+
+    <item name="星巴克" drawable="icon5687d518" />
+
+
+    <item name="学习通" drawable="icon28c460a7" />
+
+
+    <item name="有道翻译官" drawable="icone8342d38" />
+
+
+    <item name="掌上公交" drawable="icone972ff6b" />
+
+
+    <item name="智能家居" drawable="icon8d854463" />
+
+
+    <item name="中国移动" drawable="iconae4a5419" />
+
+
+    <item name="Chrome" drawable="icone109fc45" />
+
+
+    <item name="Clash" drawable="icon72dd86df" />
+
+
+    <item name="O Relax" drawable="icon0b048f6e" />
+
+
+    <item name="QMD" drawable="icon0dd560fa" />
+
+
+    <item name="Spotify" drawable="icon8211ace0" />
+
+
+    <item name="豆瓣" drawable="icon59d9f441" />
+
+
+    <item name="邮储银行" drawable="icon13488e8a" />
+
+
+    <item name="照片编辑器" drawable="icon5a6fa3a2" />
+
+
+    <item name="阅读Pro" drawable="icon1bbfe51d" />
+
+
+    <item name="阿里巴巴" drawable="icon5d28ebc2" />
+
+
+    <item name="秒账" drawable="icon1b100f02" />
+
+
+    <item name="M浏览器" drawable="iconb6970f7c" />
+
+
+    <item name="酷狗" drawable="icon97268961" />
+
+
+    <item name="懂车帝" drawable="icon46b8c0cc" />
+
+
+    <item name="懂球帝" drawable="icon967bd046" />
+
+
+    <item name="斗鱼" drawable="iconb9b10339" />
+
+
+    <item name="虎扑" drawable="icon8edc445a" />
+
+
+    <item name="网易严选" drawable="icon1c8158a7" />
+
+
+    <item name="小米WiFi" drawable="icon0871afa0" />
+
+
+    <item name="讯飞输入法" drawable="icona39b953c" />
+
+
+    <item name="TP-LINK" drawable="icon3a9b6623" />
+
+
+    <item name="中国联通" drawable="icon486ab2e3" />
+
+
+    <item name="交管12123" drawable="icon5ae10dc6" />
+
+
+    <item name="小爱音箱" drawable="icone03fcc4a" />
+
+
+    <item name="轻启动" drawable="icon2459645d" />
+
+
+    <item name="李跳跳" drawable="iconc3efc298" />
+
+
+    <item name="欢乐斗地主" drawable="icon27d26ae1" />
+
+
+    <item name="和平精英" drawable="icon6e7afd1a" />
+
+
+    <item name="滴滴出行" drawable="icon8e3e21af" />
+
+
+    <item name="Google" drawable="icon537f2928" />
+
+
+    <item name="Instagram" drawable="icon6b69d976" />
+
+
+    <item name="YouTube" drawable="icon9c1ac6f1" />
+
+
+    <item name="Gmail" drawable="icon45de312d" />
+
+
+    <item name="QQ邮箱" drawable="icona2f0d68e" />
+
+
+    <item name="Apple Music" drawable="icon5d91dece" />
+
+
+    <item name="王者荣耀" drawable="icon807d7c37" />
+
+
+    <item name="王者营地" drawable="icon1486eb89" />
+
+
+    <item name="社区" drawable="icon1aafd245" />
+
+
+    <item name="游戏空间" drawable="icon25478c2a" />
+
+
+    <item name="WiFi钥匙" drawable="icon76418c6e" />
+
+
+    <item name="掌上道具城" drawable="iconb63afa65" />
+
+
+    <item name="分期乐" drawable="icon8fbfe030" />
+
+
+    <item name="一键锁屏" drawable="icon788155ca" />
+
+
+    <item name="视频" drawable="iconbeb618d0" />
+
+
+    <item name="白描" drawable="iconebcd1091" />
+
+
+    <item name="白描证件照" drawable="icone014f983" />
+
+
+    <item name="一个木函" drawable="icon629e6909" />
+
+
+    <item name="解压缩全能王" drawable="icon018051ff" />
+
+
+    <item name="盯盯拍" drawable="icon6bd6860e" />
+
+
+    <item name="BIGEMAP" drawable="icondec8d66d" />
+
+
+    <item name="CAD看图王" drawable="icon40796c3a" />
+
+
+    <item name="中移移动办公" drawable="icon486fe512" />
+
+
+    <item name="我的OPPO" drawable="iconb2378fd7" />
+
+
+    <item name="OPPO LAB" drawable="icon02e51ecd" />
+
+
+    <item name="小黑屋" drawable="iconf5740424" />
+
+
+    <item name="途虎养车" drawable="iconbb879a9b" />
+
+
+    <item name="翼支付" drawable="iconac4938e6" />
+
+
+    <item name="中国电信" drawable="icon7ae9f00c" />
+
+
+    <item name="肯德基" drawable="iconcda02397" />
+
+
+    <item name="花小猪打车" drawable="icon400187dc" />
+
+
+    <item name="国上国网" drawable="icon77a3f0d8" />
+
+
+    <item name="必剪" drawable="icon62975f4b" />
+
+
+    <item name="snapseed" drawable="iconfd2a47fa" />
+
+
+    <item name="TouchRetouch" drawable="icon88e4e9f2" />
+
+
+    <item name="泼辣修图" drawable="icona7e3b1af" />
+
+
+    <item name="Photoshop Express" drawable="icon3cb71471" />
+
+
+    <item name="一幅相框" drawable="icondcfceb53" />
+
+
+    <item name="亲宝宝" drawable="iconc642f5e7" />
+
+
+    <item name="下厨房" drawable="icon53b2ec23" />
+
+
+    <item name="丁香医生" drawable="icon26badc38" />
+
+
+    <item name="健康山西" drawable="icondbb1b296" />
+
+
+    <item name="阅读" drawable="iconf1eafe25" />
+
+
+    <item name="作业帮" drawable="icon9fddf3ad" />
+
+
+    <item name="快递100" drawable="icon25437976" />
+
+
+    <item name="BOSS直聘" drawable="icon4b009aac" />
+
+
+    <item name="麦当劳" drawable="icon0d339c70" />
+
+
+    <item name="全民k歌" drawable="icondd9e19b0" />
+
+
+    <item name="芒果TV" drawable="icon9dabae4e" />
+
+
+    <item name="探探" drawable="icon68a25a3a" />
+
+
+    <item name="墨迹天气" drawable="icondeeb71f3" />
+
+
+    <item name="抖音极速版" drawable="icon751ec00c" />
+
+
+    <item name="UC浏览器" drawable="iconbe6d295d" />
+
+
+    <item name="快手极速版" drawable="icona1509502" />
+
+
+    <item name="一甜相机" drawable="icone6591ba2" />
+
+
+    <item name="个人所得税" drawable="iconbf88db4d" />
+
+
+    <item name="美图秀秀" drawable="icon85cd8417" />
+
+
+    <item name="快影" drawable="icone922dd0b" />
+
+
+    <item name="MOMO陌陌" drawable="iconfcbf8f20" />
+
+
+    <item name="WiFi万能钥匙" drawable="icon944ed5fc" />
+
+
+    <item name="Soul" drawable="iconef659418" />
+
+
+    <item name="Keep" drawable="icon615006e0" />
+
+
+    <item name="漫画岛" drawable="icon8c670a39" />
+
+
+    <item name="虎牙直播" drawable="icon134feda6" />
+
+
+    <item name="央视影音" drawable="icon437fa5a1" />
+
+
+    <item name="央视新闻" drawable="iconcd6c88c8" />
+
+
+    <item name="咪咕音乐" drawable="iconb3e1895f" />
+
+
+    <item name="央视频" drawable="icon9889c642" />
+
+
+    <item name="咪咕阅读" drawable="icona9df8cdd" />
+
+
+    <item name="咪咕视频" drawable="icon9d4146a0" />
+
+
+    <item name="MIX" drawable="iconcc5c0bda" />
+
+
+    <item name="酷我音乐" drawable="icond9fb2193" />
+
+
+    <item name="搜狗输入法" drawable="iconbbeeea9e" />
+
+
+    <item name="倒数日" drawable="icone2471651" />
+
+
+    <item name="盒马" drawable="iconc6b44c4d" />
+
+
+    <item name="ZAKER（新闻阅读）" drawable="icon59a9a8e8" />
+
+
+    <item name="懒人听书" drawable="iconfa798d56" />
+
+
+    <item name="亚马逊购物" drawable="icon74e3098d" />
+
+
+    <item name="考拉海购" drawable="icon1f96ecc0" />
+
+
+    <item name="网易云课堂" drawable="icon7bc3155a" />
+
+
+    <item name="网易公开课" drawable="icon68339286" />
+
+
+    <item name="网易新闻" drawable="icone30d5aa1" />
+
+
+    <item name="我的世界" drawable="icon31dd90f6" />
+
+
+    <item name="中国银行" drawable="icone1d867ed" />
+
+
+    <item name="平安口袋银行" drawable="icon54318a04" />
+
+
+    <item name="中国农业银行" drawable="icon0bb87093" />
+
+
+    <item name="智联招聘" drawable="icon6fa248ad" />
+
+
+    <item name="前程无忧51Job" drawable="iconda15324e" />
+
+
+    <item name="realme Link" drawable="icon15127019" />
+
+
+    <item name="丰收互联" drawable="iconc48ccf01" />
+
+
+    <item name="椒盐音乐" drawable="icon47bbee7c" />
+
+
+    <item name="汽车之家" drawable="iconeadb534e" />
+
+
+    <item name="音乐标签" drawable="icon11640920" />
+
+
+    <item name="Edge" drawable="icon1bce3543" />
+
+
+    <item name="爱作业" drawable="iconc9179305" />
+
+
+    <item name="爱回收" drawable="icon43894882" />
+
+
+    <item name="YY" drawable="iconb4034318" />
+
+
+    <item name="搜狐视频" drawable="icon304f8a5c" />
+
+
+    <item name="多多视频" drawable="iconfbdf2752" />
+
+
+    <item name="乐视视频" drawable="icone4f18eca" />
+
+
+    <item name="百度视频" drawable="icon84721c62" />
+
+
+    <item name="韩剧TV" drawable="iconf38c77d1" />
+
+
+    <item name="影视大全" drawable="icon3a463cfc" />
+
+
+    <item name="爱奇艺极速版" drawable="icon1f1cfc28" />
+
+
+    <item name="好看视频" drawable="icon89c68427" />
+
+
+    <item name="天天P图" drawable="icon38aa1e8d" />
+
+
+    <item name="水印相机" drawable="icon98d5b9e3" />
+
+
+    <item name="美颜相机" drawable="icon543d123e" />
+
+
+    <item name="Faceu激萌" drawable="iconc0c2d136" />
+
+
+    <item name="POCO相机" drawable="icon06e1452c" />
+
+
+    <item name="Blued" drawable="icon8ae6d9b3" />
+
+
+    <item name="X浏览器" drawable="iconb5642329" />
+
+
+    <item name="迅雷" drawable="iconc1c3ba6c" />
+
+
+    <item name="UU加速器" drawable="icon6da18844" />
+
+
+    <item name="360天气" drawable="iconcf7916c0" />
+
+
+    <item name="360云盘" drawable="icon6fdabc6d" />
+
+
+    <item name="360浏览器" drawable="icon7d16effb" />
+
+
+    <item name="360手机助手" drawable="iconed1f051f" />
+
+
+    <item name="360影视大全" drawable="icon6ab17064" />
+
+
+    <item name="360手机卫士" drawable="iconf265b2d0" />
+
+
+    <item name="交易猫" drawable="iconfa533781" />
+
+
+    <item name="得物" drawable="icone29b8750" />
+
+
+    <item name="淘特" drawable="iconeada59ab" />
+
+
+    <item name="转转" drawable="icon5d2a162b" />
+
+
+    <item name="中国邮政" drawable="icon9ec51c23" />
+
+
+    <item name="当当" drawable="icon163bb89c" />
+
+
+    <item name="Nike Training Club - 居家训练和健身计划&#9;" drawable="iconca30269f" />
+
+
+    <item name="蘑菇街" drawable="icon617e5106" />
+
+
+    <item name="小米有品" drawable="icon9935144b" />
+
+
+    <item name="小米商城" drawable="icon08340e5c" />
+
+
+    <item name="小米社区" drawable="icon285b82d0" />
+
+
+    <item name="小米移动" drawable="icon7e6fae94" />
+
+
+    <item name="Zepp" drawable="icon08029c5d" />
+
+
+    <item name="米家" drawable="icon37b4520a" />
+
+
+    <item name="书旗小说" drawable="icon29278d6a" />
+
+
+    <item name="追书神器" drawable="icon3b9f44ac" />
+
+
+    <item name="掌阅" drawable="icon5c26f446" />
+
+
+    <item name="QQ阅读" drawable="icon1ac6496a" />
+
+
+    <item name="快看漫画" drawable="icon924c88df" />
+
+
+    <item name="哔哩哔哩漫画" drawable="icon8789689e" />
+
+
+    <item name="腾讯动漫" drawable="icon69322087" />
+
+
+    <item name="动漫之家" drawable="icone99ddeec" />
+
+
+    <item name="迷你世界" drawable="icon44cd85d0" />
+
+
+    <item name="开心消消乐" drawable="icon45e1d2d7" />
+
+
+    <item name="QQ飞车" drawable="iconab92f372" />
+
+
+    <item name="贪吃蛇大作战" drawable="icon35decf9f" />
+
+
+    <item name="金铲铲之战" drawable="icon72201f7c" />
+
+
+    <item name="穿越火线" drawable="icondeca4dab" />
+
+
+    <item name="掌上穿越火线" drawable="icon79c571ee" />
+
+
+    <item name="植物大战僵尸" drawable="icon24464672" />
+
+
+    <item name="植物大战僵尸2" drawable="icond99ba8ac" />
+
+
+    <item name="英雄联盟手游" drawable="icond5e4cf12" />
+
+
+    <item name="掌上英雄联盟" drawable="iconfb6fb343" />
+
+
+    <item name="火影忍者" drawable="icondd538806" />
+
+
+    <item name="地铁跑酷" drawable="icon8a5b2f98" />
+
+
+    <item name="部落冲突" drawable="icon3fe60344" />
+
+
+    <item name="神庙逃亡" drawable="icon28e68168" />
+
+
+    <item name="神庙逃亡2" drawable="icon6b5b5032" />
+
+
+    <item name="崩坏3" drawable="icon30f2fbe6" />
+
+
+    <item name="皇室战争" drawable="iconeb3a9a2a" />
+
+
+    <item name="决战！平安京" drawable="icona5159154" />
+
+
+    <item name="三国杀" drawable="icon65c25258" />
+
+
+    <item name="保卫萝卜" drawable="icon0dff6698" />
+
+
+    <item name="保卫萝卜2" drawable="icon2c0250fd" />
+
+
+    <item name="天天象棋" drawable="icona2fe917f" />
+
+
+    <item name="天天酷跑" drawable="icon6bdb58b2" />
+
+
+    <item name="滑雪大冒险" drawable="icond5b7504b" />
+
+
+    <item name="阴阳师" drawable="iconddc1e169" />
+
+
+    <item name="光·遇" drawable="icon6bdcc82f" />
+
+
+    <item name="网易蜗牛读书" drawable="icon429c835e" />
+
+
+    <item name="梦幻西游" drawable="icon9b5b67d6" />
+
+
+    <item name="网易云阅读" drawable="icon767cba74" />
+
+
+    <item name="乱斗西游2" drawable="icon801077d3" />
+
+
+    <item name="应用宝" drawable="icon2af48ecf" />
+
+
+    <item name="全民飞机大战" drawable="icon940bc15c" />
+
+
+    <item name="节奏大师" drawable="icon150155da" />
+
+
+    <item name="一起来捉妖" drawable="icon890c28b4" />
+
+
+    <item name="腾讯地图" drawable="iconc8663d49" />
+
+
+    <item name="天天富翁" drawable="icon5588f6d8" />
+
+
+    <item name="娱票儿" drawable="icon18506bac" />
+
+
+    <item name="NBA" drawable="icon0b33b947" />
+
+
+    <item name="QQ游戏" drawable="icon1b84a505" />
+
+
+    <item name="腾讯自选股" drawable="icona67774a1" />
+
+
+    <item name="腾讯手机管家" drawable="iconc76b2d67" />
+
+
+    <item name="QQ输入法" drawable="icon01004498" />
+
+
+    <item name="腾讯体育" drawable="icon8e41e01e" />
+
+
+    <item name="企鹅FM" drawable="icondd43bdfd" />
+
+
+    <item name="快报" drawable="iconf728ba09" />
+
+
+    <item name="QQ影音" drawable="icon8abc1236" />
+
+
+    <item name="QQ安全中心" drawable="icon33193dca" />
+
+
+    <item name="企业微信" drawable="icon91e3cbf9" />
+
+
+    <item name="换机助手" drawable="icond6ec37bd" />
+
+
+    <item name="街头篮球" drawable="icon1f79d9c2" />
+
+
+    <item name="王者人生" drawable="iconb1fccabe" />
+
+
+    <item name="纪念碑谷2" drawable="icon0abc7bbb" />
+
+
+    <item name="剑与远征" drawable="iconf3f6f6b7" />
+
+
+    <item name="奇迹暖暖" drawable="iconc2139472" />
+
+
+    <item name="跑跑卡丁车" drawable="icon850b5a76" />
+
+
+    <item name="腾讯文档" drawable="icon1c57de16" />
+
+
+    <item name="腾讯课堂" drawable="icon50995213" />
+
+
+    <item name="天天爱消除" drawable="iconb04b11ed" />
+
+
+    <item name="魂斗罗:归来" drawable="icon9e43e1d5" />
+
+
+    <item name="腾讯围棋" drawable="iconf24de3d0" />
+
+
+    <item name="腾讯NOW直播" drawable="icon7444410a" />
+
+
+    <item name="心悦俱乐部" drawable="icon872fcb15" />
+
+
+    <item name="腾讯加速器" drawable="icon919a7cdd" />
+
+
+    <item name="扫描全能王" drawable="icon63d09918" />
+
+
+    <item name="小黑屋" drawable="icon6c7495da" />
+
+
+    <item name="冰箱" drawable="iconf28f3cd5" />
+
+
+    <item name="黑阈" drawable="icon497057e9" />
+
+
+    <item name="墨墨背单词" drawable="icon36a22a59" />
+
+
+    <item name="哈啰" drawable="icon0a047659" />
+
+
+    <item name="TapTap" drawable="icon74506afc" />
+
+
+    <item name="AndPods" drawable="icon21b440c3" />
+
+
+    <item name="ES文件浏览器" drawable="iconda50bcd8" />
+
+
+    <item name="识货" drawable="iconb90a359d" />
+
+
+    <item name="最右" drawable="icon7bb73c83" />
+
+
+    <item name="AccuBattery" drawable="icon961ec5ee" />
+
+
+    <item name="安兔兔评测" drawable="icon549b5835" />
+
+
+    <item name="百度翻译" drawable="icon53cb8eb7" />
+
+
+    <item name="腾讯手游加速器" drawable="icon8ff2e8e3" />
+
+
+    <item name="小鸡模拟器" drawable="icon02347eb0" />
+
+
+    <item name="狂野飙车9：竞速传奇" drawable="iconb4cf4ef2" />
+
+
+    <item name="炉石传说" drawable="icone44da9e3" />
+
+
+    <item name="九游" drawable="icond3c1996c" />
+
+
+    <item name="荒野乱斗" drawable="icon133e9eb4" />
+
+
+    <item name="掌上wegame" drawable="icon351a7ace" />
+
+
+    <item name="腾讯桌球" drawable="iconf196b1bc" />
+
+
+    <item name="太极" drawable="icon7e960486" />
+
+
+    <item name="绿色守护" drawable="icon11b7f1ea" />
+
+
+    <item name="百度输入法" drawable="icon4307ac6b" />
+
+
+    <item name="一木记账" drawable="icon2b697bb9" />
+
+
+    <item name="鲨鱼记账" drawable="icon3063de3b" />
+
+
+    <item name="WakeUp课程表" drawable="icond6babbdc" />
+
+
+    <item name="做你的图标包" drawable="icone9e70386" />
+
+
+    <item name="滴答清单" drawable="icon1629cf77" />
+
+
+    <item name="搜图神器" drawable="icon9dbd3bb1" />
+
+
+    <item name="番茄TODO" drawable="icona1cb2216" />
+
+
+    <item name="七猫免费小说" drawable="icond76293fc" />
+
+
+    <item name="网易有道词典" drawable="icon63bf5962" />
+
+
+    <item name="流利说-英语" drawable="icon01d49dd2" />
+
+
+    <item name="百词斩" drawable="icon65bdf4c9" />
+
+
+    <item name="每日英语听力" drawable="icon934e6802" />
+
+
+    <item name="不背单词" drawable="iconfce9c2c4" />
+
+
+    <item name="扇贝单词" drawable="iconbf0f8dc0" />
+
+
+    <item name="扇贝阅读" drawable="icon069bb368" />
+
+
+    <item name="金山词霸" drawable="icon2df7995d" />
+
+
+    <item name="BBC News" drawable="icon186210dc" />
+
+
+    <item name="Good Lock" drawable="icon669a0a01" />
+
+
+    <item name="LibChecker" drawable="iconfbc3ba2b" />
+
+
+    <item name="桌面搜索" drawable="icon29de8594" />
+
+
+    <item name="主题商店" drawable="iconf14174be" />
+
+
+    <item name="主题公园" drawable="icon532251c2" />
+
+
+    <item name="相册" drawable="iconeabdbecf" />
+
+
+    <item name="三星生活助手" drawable="icon27d5eada" />
+
+
+    <item name="三星健康" drawable="icon450d8aa7" />
+
+
+    <item name="商业周刊" drawable="iconadab951e" />
+
+
+    <item name="新浪体育" drawable="icon706ced43" />
+
+
+    <item name="新浪财经" drawable="icon9d793221" />
+
+
+    <item name="浦发手机银行" drawable="icona2a99665" />
+
+
+    <item name="丁香园" drawable="iconc24a8e3c" />
+
+
+    <item name="知米听力" drawable="iconf5f5f17b" />
+
+
+    <item name="知米背单词" drawable="icon41588090" />
+
+
+    <item name="布卡漫画" drawable="icond4e1bfca" />
+
+
+    <item name="乐动力" drawable="icon5b2f7920" />
+
+
+    <item name="酷我畅听" drawable="icon9a300725" />
+
+
+    <item name="百度手机卫士" drawable="icon4160840d" />
+
+
+    <item name="图片合成器" drawable="icon93e7aa08" />
+
+
+    <item name="波点音乐" drawable="icond2f284a6" />
+
+
+    <item name="皮皮搞笑" drawable="icondcfadc4d" />
+
+
+    <item name="Adobe Acrobat Reader: Edit PDF" drawable="icon041f3dbf" />
+
+
+    <item name="Adobe AIR" drawable="icon1f7ab246" />
+
+
+    <item name="天猫精灵" drawable="iconea3e0eb7" />
+
+
+    <item name="Adobe Flash Player" drawable="icon29bec836" />
+
+
+    <item name="几何天气" drawable="icon90a89f39" />
+
+
+    <item name="旺信" drawable="icon17d914af" />
+
+
+    <item name="苏宁易购" drawable="icon3e3eb8c5" />
+
+
+    <item name="皮皮虾" drawable="icon23495e73" />
+
+
+    <item name="Boom Beach" drawable="icon7f414f18" />
+
+
+    <item name="NBA2K20" drawable="icon6dc7239d" />
+
+
+    <item name="口碑" drawable="iconaef15f8e" />
+
+
+    <item name="大众点评" drawable="icond398ed6b" />
+
+
+    <item name="飞猪" drawable="icon1cf0a06a" />
+
+
+    <item name="点淘" drawable="icon3786b558" />
+
+
+    <item name="去哪儿旅行" drawable="icon44f146d6" />
+
+
+    <item name="TED" drawable="iconb9cf42bb" />
+
+
+    <item name="先游" drawable="iconc2d0d210" />
+
+
+    <item name="天眼查" drawable="icon8226f458" />
+
+
+    <item name="同程旅行-再出发就同程" drawable="icone2627856" />
+
+
+    <item name="Tumblr" drawable="icon8eccaf60" />
+
+
+    <item name="国家地理" drawable="icon0ae4a3fc" />
+
+
+    <item name="圆通速递" drawable="icone165b822" />
+
+
+    <item name="steam" drawable="icon82c8d8e6" />
+
+
+    <item name="韵达速递" drawable="icon826d7804" />
+
+
+    <item name="Xposed Installer" drawable="icone73bcf79" />
+
+
+    <item name="Magisk" drawable="iconbd9be3e9" />
+
+
+    <item name="SD Maid" drawable="icon674e3d47" />
+
+
+    <item name="SuperSU" drawable="icon5048c67a" />
+
+
+    <item name="DevCheck" drawable="icon5fc122bf" />
+
+
+    <item name="Flipboard红板报" drawable="icon31f314e0" />
+
+
+    <item name="蜻蜓FM" drawable="icon016cd6dd" />
+
+
+    <item name="虾米音乐" drawable="icon39baf66d" />
+
+
+    <item name="腾讯爱玩" drawable="icon7b02cbe0" />
+
+
+    <item name="薄荷记账" drawable="icon948070f0" />
+
+
+    <item name="搜狗浏览器" drawable="icon01ac7493" />
+
+
+    <item name="AcFun" drawable="icon20c952ce" />
+
+
+    <item name="360相机" drawable="iconf2a40904" />
+
+
+    <item name="人民日报" drawable="iconf44e6a78" />
+
+
+    <item name="CHINA DAILY - 中国日报" drawable="iconff9d7483" />
+
+
+    <item name="欢乐麻将全集" drawable="icon4b84a86d" />
+
+
+    <item name="英雄杀" drawable="iconcd7ba439" />
+
+
+    <item name="QQ空间" drawable="icon8f447f91" />
+
+
+    <item name="新浪新闻" drawable="icon29a4a5c8" />
+
+
+    <item name="微盘" drawable="icon6e89c3dd" />
+
+
+    <item name="神州租车" drawable="iconaedc6d67" />
+
+
+    <item name="车来了" drawable="icond5b1fb33" />
+
+
+    <item name="地铁通" drawable="iconfffbd31b" />
+
+
+    <item name="PayPal" drawable="icond577eeb6" />
+
+
+    <item name="京东钱包" drawable="iconedd73a7d" />
+
+
+    <item name="音悦台" drawable="icon748e0c4d" />
+
+
+    <item name="阿里小号" drawable="icon04023ab0" />
+
+
+    <item name="Gboard - Google 键盘" drawable="icon4335ab43" />
+
+
+    <item name="百度手机助手" drawable="iconf81678f4" />
+
+
+    <item name="知乎日报" drawable="icon1501cbf0" />
+
+
+    <item name="微博国际版" drawable="iconc453fe19" />
+
+
+    <item name="Office" drawable="iconea478e2f" />
+
+
+    <item name="联动云租车" drawable="iconb8bcc609" />
+
+
+    <item name="翻译" drawable="iconacf73e50" />
+
+
+    <item name="红宝书词汇" drawable="icon9367702c" />
+
+
+    <item name="简单搜索" drawable="icon74377799" />
+
+
+    <item name="买单吧" drawable="iconeb04da6c" />
+
+
+    <item name="Share" drawable="iconf1e5dd19" />
+
+
+    <item name="清浊" drawable="icon132a162d" />
+
+
+    <item name="驾校一点通" drawable="icon9dea10c3" />
+
+
+    <item name="包名查看" drawable="icon427b8726" />
+
+
+    <item name="爱加速代理" drawable="icon860ac551" />
+
+
+    <item name="体适能" drawable="icon0aa08940" />
+
+
+    <item name="易班" drawable="icon4d10cd9f" />
+
+
+    <item name="欧路词典" drawable="iconbac41803" />
+
+
+    <item name="Authenticator" drawable="icon053b6036" />
+
+
+    <item name="FairEmail" drawable="iconac27ae72" />
+
+
+    <item name="OneDrive" drawable="icon488a02aa" />
+
+
+    <item name="Files" drawable="iconcdc4eb0f" />
+
+
+    <item name="Surfboard" drawable="icon0f463003" />
+
+
+    <item name="Podcast Addict" drawable="icon837c7b0b" />
+
+
+    <item name="钱迹" drawable="iconc5e9a6ad" />
+
+
+    <item name="FIMO" drawable="icon993fab32" />
+
+
+    <item name="运动健康" drawable="icon6b26c538" />
+
+
+    <item name="厚墨" drawable="icon43c63fd8" />
+
+
+    <item name="身份验证器" drawable="icon0ca3d2bc" />
+
+
+    <item name="掌上生活" drawable="icon15dab395" />
+
+
+    <item name="招商银行" drawable="icon2ffaa421" />
+
+
+    <item name="Zepp" drawable="icone30d35b8" />
+
+
+    <item name="黄油相机" drawable="icon020ce933" />
+
+
+    <item name="瑞幸咖啡" drawable="icon8e379164" />
+
+
+    <item name="360极速浏览器" drawable="icon429012f4" />
+
+
+    <item name="阿里智能" drawable="iconc0e9fc9b" />
+
+
+    <item name="存储空间清理" drawable="iconbab09d52" />
+
+
+    <item name="澎湃新闻" drawable="icon29d0e8fe" />
+
+
+    <item name="学习强国" drawable="icon68527b5c" />
+
+
+    <item name="To Do" drawable="icone0d9f633" />
+
+
+    <item name="Alook" drawable="icon172362ec" />
+
+
+    <item name="今日校园" drawable="icon9ee5d67d" />
+
+
+    <item name="v2rayNG" drawable="iconfcd487d1" />
+
+
+    <item name="和彩云网盘" drawable="icon9955aebb" />
+
+
+    <item name="和家亲" drawable="iconfedde381" />
+
+
+    <item name="便携下载" drawable="icon7e90bbb2" />
+
+
+    <item name="掌心宝贝" drawable="iconf3a154da" />
+
+
+    <item name="Kindle阅读" drawable="icon570a6496" />
+
+
+    <item name="即刻" drawable="icon05e6930e" />
+
+
+    <item name="一指禅" drawable="icon16704420" />
+
+
+    <item name="军棋" drawable="icon77b855cc" />
+
+
+    <item name="国家反诈中心" drawable="icon771418db" />
+
+
+    <item name="铃声多多" drawable="icone6a87c2e" />
+
+
+    <item name="山东农信" drawable="icon5b1f4135" />
+
+
+    <item name="卡券" drawable="icon62fff614" />
+
+
+    <item name="建行生活" drawable="icon31beccf3" />
+
+
+    <item name="DNF助手" drawable="icon61bcb700" />
+
+
+    <item name="1号会员店" drawable="icon29cd9650" />
+
+
+    <item name="粉笔" drawable="iconb4bc0bc6" />
+
+
+    <item name="中信银行" drawable="icon2781bab3" />
+
+
+    <item name="葫芦侠" drawable="iconf6e2bbba" />
+
+
+    <item name="麻雀记" drawable="iconbe171c5b" />
+
+
+    <item name="网易邮箱" drawable="icon485ad6db" />
+
+
+    <item name="学小易" drawable="icon6f62f008" />
+
+
+    <item name="APKPure" drawable="icone2dffcc2" />
+
+
+    <item name="GitHub" drawable="icon9abdd86c" />
+
+
+    <item name="Microsft Outlook" drawable="iconb838ea94" />
+
+
+    <item name="pixiv" drawable="icon289d7dbb" />
+
+
+    <item name="爱彼迎" drawable="icon5dfbc7eb" />
+
+
+    <item name="广东移动智慧生活" drawable="icon53905546" />
+
+
+    <item name="一个" drawable="iconc1dbf51c" />
+
+
+    <item name="flomo笔记" drawable="icon7a18ca1a" />
+
+
+    <item name="医鹿" drawable="iconc7d2d169" />
+
+
+    <item name="OldRoll复古胶片相机" drawable="icon6f70250d" />
+
+
+    <item name="OPPO 社区" drawable="icon0d3f4452" />
+
+
+    <item name="Stellio Player" drawable="icon32125aa9" />
+
+
+    <item name="快知" drawable="icon1bca681d" />
+
+
+    <item name="Forest" drawable="icon0a063b57" />
+
+
+    <item name="石墨文档" drawable="icon44f287f8" />
+
+
+    <item name="微车违章查询" drawable="icondc192ebc" />
+
+
+    <item name="北京一卡通" drawable="icon710c29c7" />
+
+
+    <item name="博看书苑" drawable="icona55da9a8" />
+
+
+    <item name="轻听英语" drawable="icon5a8d1a4e" />
+
+
+    <item name="太平洋电脑网" drawable="icon3cc07e48" />
+
+
+    <item name="手机乐园市场" drawable="icon066c338d" />
+
+
+    <item name="合肥通卡" drawable="icon2fba1aee" />
+
+
+    <item name="海词词典" drawable="icon4540c843" />
+
+
+    <item name="新华字典" drawable="icon8606a704" />
+
+
+    <item name="车轮" drawable="icon0cd3c1f4" />
+
+
+    <item name="WeCal" drawable="icond4a3c7e2" />
+
+
+    <item name="富途牛牛" drawable="icon7eb0899c" />
+
+
+    <item name="Snapmod - 带壳截图" drawable="icon90224526" />
+
+
+    <item name="安智市场" drawable="iconcbadaf5a" />
+
+
+    <item name="闪送" drawable="icon9bfa5e69" />
+
+
+    <item name="JJ斗地主" drawable="icon130558b5" />
+
+
+    <item name="Zone护眼" drawable="icon5095edc8" />
+
+
+    <item name="抱抱" drawable="iconf2551b26" />
+
+
+    <item name="机锋" drawable="icona9d9e065" />
+
+
+    <item name="InterPhoto" drawable="icon5a19f192" />
+
+
+    <item name="简拼" drawable="iconec8f3053" />
+
+
+    <item name="WPS便签" drawable="icon10718856" />
+
+
+    <item name="金山文档" drawable="icon483577fa" />
+
+
+    <item name="动感相册" drawable="iconec00e067" />
+
+
+    <item name="中青看点" drawable="icon173658ff" />
+
+
+    <item name="Joyrun" drawable="iconed0bc561" />
+
+
+    <item name="爱吾游戏宝盒" drawable="icon02ecadc2" />
+
+
+    <item name="阿里云" drawable="icon8f3f5264" />
+
+
+    <item name="全历史" drawable="icon506b95cf" />
+
+
+    <item name="拉勾招聘" drawable="icon97f33213" />
+
+
+    <item name="Cx File Explorer" drawable="icon407c432e" />
+
+
+    <item name="Miracles" drawable="icon93139d90" />
+
+
+    <item name="大智慧" drawable="iconb2af6d54" />
+
+
+    <item name="36氪" drawable="icon525e3888" />
+
+
+    <item name="安居客" drawable="iconb2ff59f2" />
+
+
+    <item name="LetsView" drawable="icond34e8fa7" />
+
+
+    <item name="Pornhub" drawable="iconb3d6a451" />
+
+
+    <item name="AppsFree" drawable="icon3d876998" />
+
+
+    <item name="百度浏览器" drawable="icon9c4a7744" />
+
+
+    <item name="小度音箱" drawable="icond79b2fa0" />
+
+
+    <item name="百度新闻" drawable="icon8d3a4192" />
+
+
+    <item name="百度极速版" drawable="icon27cfdffd" />
+
+
+    <item name="贴吧极速版" drawable="icon18c22266" />
+
+
+    <item name="一刻相册" drawable="icon15e0a3a2" />
+
+
+    <item name="百度阅读" drawable="icon4152bd64" />
+
+
+    <item name="百合婚恋" drawable="icon6f59dbf1" />
+
+
+    <item name="88共享出行" drawable="icon3f5fec89" />
+
+
+    <item name="交通银行" drawable="icon7d6cac0a" />
+
+
+    <item name="买车宝典" drawable="icond7987ff2" />
+
+
+    <item name="EVCARD" drawable="icon26844a9e" />
+
+
+    <item name="暴走漫画" drawable="icon79e8ae9a" />
+
+
+    <item name="WutaCam" drawable="iconab74979e" />
+
+
+    <item name="启信宝" drawable="iconfa060693" />
+
+
+    <item name="便利蜂" drawable="icon57f4a72f" />
+
+
+    <item name="哔哩哔哩概念" drawable="iconcb9c3e32" />
+
+
+    <item name="NOMO CAM" drawable="iconeeed065a" />
+
+
+    <item name="BlueWhale" drawable="icon61e37809" />
+
+
+    <item name="最美应用" drawable="icon749a01b1" />
+
+
+    <item name="2345浏览器" drawable="icon53e8e1f8" />
+
+
+    <item name="ToolWiz Photos" drawable="icon503a876a" />
+
+
+    <item name="百思不得姐" drawable="icon5ba74661" />
+
+
+    <item name="聊天宝" drawable="icon3cc23f27" />
+
+
+    <item name="百分网" drawable="icone175de56" />
+
+
+    <item name="财新" drawable="icon8b73c821" />
+
+
+    <item name="InShot" drawable="icon7524a631" />
+
+
+    <item name="B612咔叽" drawable="icon263da7c2" />
+
+
+    <item name="CARBEN车本部落" drawable="icon3c5f0b1e" />
+
+
+    <item name="广发银行" drawable="icon976c02c5" />
+
+
+    <item name="CWall" drawable="icon69e5e005" />
+
+
+    <item name="唱吧" drawable="icon6f922e8a" />
+
+
+    <item name="畅游" drawable="iconb0c518c5" />
+
+
+    <item name="巴士管家" drawable="icon7366b2d7" />
+
+
+    <item name="元气骑士" drawable="icon222a6075" />
+
+
+    <item name="天府通" drawable="iconc05ea341" />
+
+
+    <item name="兴业银行" drawable="icon616ae6e7" />
+
+
+    <item name="易公交" drawable="icon9c8fa036" />
+
+
+    <item name="猎豹清理大师" drawable="icon6cb91bcb" />
+
+
+    <item name="Puffin" drawable="icon517595e4" />
+
+
+    <item name="MoboPlayer" drawable="icon83af2dcc" />
+
+
+    <item name="全民生活" drawable="iconc8beae80" />
+
+
+    <item name="重庆市民通" drawable="icon2c193d6f" />
+
+
+    <item name="钢琴块2" drawable="icon1c2797d3" />
+
+
+    <item name="CAJ云阅读" drawable="icon7ce36eb0" />
+
+
+    <item name="咕咚" drawable="icon55ff0b6f" />
+
+
+    <item name="触宝输入法" drawable="icon7b7b2a13" />
+
+
+    <item name="掌上高铁" drawable="icon18bd5306" />
+
+
+    <item name="南方航空" drawable="icon42c9ee03" />
+
+
+    <item name="城通网盘" drawable="icon20526031" />
+
+
+    <item name="汽车报价" drawable="icon829e555e" />
+
+
+    <item name="电视家" drawable="icon8c68aa41" />
+
+
+    <item name="嘀嗒出行" drawable="iconc81a4604" />
+
+
+    <item name="滴滴企业版" drawable="icon3bb77c9d" />
+
+
+    <item name="当乐" drawable="icon5f6189cc" />
+
+
+    <item name="叮嗒出行" drawable="icon1a995c85" />
+
+
+    <item name="第一弹" drawable="icon06aebd1f" />
+
+
+    <item name="豆丁书房" drawable="icon5c6de685" />
+
+
+    <item name="逗拍" drawable="icona8caaa1d" />
+
+
+    <item name="豆瓣电影" drawable="iconc697142b" />
+
+
+    <item name="豆瓣FM" drawable="icon4bd5390a" />
+
+
+    <item name="豆果美食" drawable="icon1fd80dee" />
+
+
+    <item name="斗鱼极速版" drawable="icon57888474" />
+
+
+    <item name="艺龙旅行" drawable="icon8b904128" />
+
+
+    <item name="纯纯写作 - 绝不丢失文本编辑器、日记、便签、小说、剧本、诗" drawable="iconb1b02727" />
+
+
+    <item name="Dropbox: 云存储与同步" drawable="icon075790a3" />
+
+
+    <item name="堆糖" drawable="icon395fecee" />
+
+
+    <item name="儿歌多多" drawable="icon1bbdf8a2" />
+
+
+    <item name="小米小说" drawable="icona55e5198" />
+
+
+    <item name="万能遥控" drawable="icon573e2e9e" />
+
+
+    <item name="多看阅读" drawable="icon0e53a3d5" />
+
+
+    <item name="毒舌影视" drawable="iconf284940c" />
+
+
+    <item name="有钱花" drawable="icon9549636e" />
+
+
+    <item name="度小满金融" drawable="icon3b6dc74a" />
+
+
+    <item name="ADM Pro" drawable="icon5e914000" />
+
+
+    <item name="Real Racing 3" drawable="iconb7a4514d" />
+
+
+    <item name="阳光惠生活" drawable="iconb4c5294e" />
+
+
+    <item name="17K小说" drawable="iconfb0e05e5" />
+
+
+    <item name="eBay: The shopping marketplace" drawable="icon9e38998c" />
+
+
+    <item name="手机营业厅" drawable="icon30c17467" />
+
+
+    <item name="掌上路路通" drawable="icond1ed9c45" />
+
+
+    <item name="Google空间" drawable="icon4f025400" />
+
+
+    <item name="Messenger" drawable="icone1e90474" />
+
+
+    <item name="返利" drawable="icon95c6da62" />
+
+
+    <item name="Secure VPN－Safer Internet" drawable="icon5761ec49" />
+
+
+    <item name="猿题库" drawable="iconb999efb4" />
+
+
+    <item name="轻阅" drawable="icon8b813490" />
+
+
+    <item name="老王VPN" drawable="icon395965d8" />
+
+
+    <item name="小熊油耗" drawable="icon1f371814" />
+
+
+    <item name="Fluent图标包" drawable="icone5c20251" />
+
+
+    <item name="搜书大师" drawable="icone171c52a" />
+
+
+    <item name="缤纷生活" drawable="icon66ede0a0" />
+
+
+    <item name="我要自学网" drawable="icon97a6462b" />
+
+
+    <item name="随身乐队" drawable="iconf2085740" />
+
+
+    <item name="瓜子二手车" drawable="iconbca18df8" />
+
+
+    <item name="阅读" drawable="icon5d66222b" />
+
+
+    <item name="广发易淘金" drawable="iconaa199fed" />
+
+
+    <item name="词根词缀记忆字典" drawable="icon50d2cee4" />
+
+
+    <item name="CAD快速看图" drawable="icon9396db4a" />
+
+
+    <item name="规范查阅" drawable="icon67216bd5" />
+
+
+    <item name="Google 云端硬盘" drawable="icond9267e13" />
+
+
+    <item name="Google Maps Go - 路线、路况和公交" drawable="iconf3d0bece" />
+
+
+    <item name="计算器" drawable="icon63e3d284" />
+
+
+    <item name="YouTube Music" drawable="icon9262c3f6" />
+
+
+    <item name="Google Play 游戏" drawable="icon5a44aa2d" />
+
+
+    <item name="环聊" drawable="iconf5d29df1" />
+
+
+    <item name="Go谷歌安装器" drawable="iconed620f57" />
+
+
+    <item name="轻颜相机" drawable="icon964c2180" />
+
+
+    <item name="微医" drawable="icon0d4040fb" />
+
+
+    <item name="高铁管家" drawable="icon88d185f7" />
+
+
+    <item name="毛豆新车" drawable="icon7e0d8c75" />
+
+
+    <item name="果壳精选" drawable="icon189a67c5" />
+
+
+    <item name="GoFun出行" drawable="icone4f73474" />
+
+
+    <item name="好豆菜谱" drawable="iconabffce7c" />
+
+
+    <item name="AZ Screen Recorder" drawable="icon598e80e7" />
+
+
+    <item name="中国天气" drawable="icon128ceb1d" />
+
+
+    <item name="一点资讯" drawable="icon9730941a" />
+
+
+    <item name="稿定设计" drawable="icon2a6b63fa" />
+
+
+    <item name="河南农信" drawable="iconf0f2a777" />
+
+
+    <item name="链家一二手房租房新房" drawable="iconc9e346ad" />
+
+
+    <item name="蜜蜂加速器" drawable="iconcb12655a" />
+
+
+    <item name="红袖添香" drawable="iconeb18bacd" />
+
+
+    <item name="华为穿戴" drawable="icon7ed4b4dd" />
+
+
+    <item name="花粉俱乐部" drawable="iconac86cbb1" />
+
+
+    <item name="华为健康" drawable="icon7c1cb63c" />
+
+
+    <item name="CCtalk" drawable="icon8ba029ba" />
+
+
+    <item name="沪江小D词典" drawable="icon93edd4b9" />
+
+
+    <item name="沪江网校" drawable="icon7f1bb8eb" />
+
+
+    <item name="平安证券" drawable="icon0c3adbfb" />
+
+
+    <item name="二手手机找靓机" drawable="icona9434f10" />
+
+
+    <item name="过日子" drawable="icon486d8488" />
+
+
+    <item name="贝贝" drawable="iconb01bb5a3" />
+
+
+    <item name="摩范出行" drawable="iconebe2bf2e" />
+
+
+    <item name="好好住" drawable="icon94c3daaf" />
+
+
+    <item name="永安行" drawable="icon9bd4246f" />
+
+
+    <item name="工银融e联" drawable="iconcc14dde6" />
+
+
+    <item name="Anki记忆卡" drawable="icon55b158dd" />
+
+
+    <item name="Weather" drawable="icon6ccc7d50" />
+
+
+    <item name="爱范儿" drawable="icon7fb6b3f9" />
+
+
+    <item name="凤凰新闻" drawable="icon280c6d08" />
+
+
+    <item name="录音宝" drawable="icon30e5e7ce" />
+
+
+    <item name="猎豹浏览器" drawable="icon2e909b96" />
+
+
+    <item name="米兔" drawable="icon82653f1e" />
+
+
+    <item name="爱听4G" drawable="icon0bf8bc7f" />
+
+
+    <item name="南方周末" drawable="icona3209ba1" />
+
+
+    <item name="考拉FM电台" drawable="iconc8ee2c8b" />
+
+
+    <item name="BBC英语" drawable="icon1373aa40" />
+
+
+    <item name="京东读书" drawable="icon7cb40d01" />
+
+
+    <item name="悟空租车" drawable="icon326335f9" />
+
+
+    <item name="世纪佳缘" drawable="iconf0a6e152" />
+
+
+    <item name="界面新闻" drawable="icon25153b5a" />
+
+
+    <item name="趣头条" drawable="icon6dc399e6" />
+
+
+    <item name="全能计算器" drawable="icon08c15f76" />
+
+
+    <item name="京东到家" drawable="icone8061976" />
+
+
+    <item name="晋江小说阅读" drawable="icon0fcddec6" />
+
+
+    <item name="刷宝短视频" drawable="iconf40e30d0" />
+
+
+    <item name="聚美优品" drawable="icon9102a398" />
+
+
+    <item name="Holi天气" drawable="icon2b01f87f" />
+
+
+    <item name="掌上营业厅" drawable="icond0e79375" />
+
+
+    <item name="聚应用" drawable="iconea8b34ff" />
+
+
+    <item name="安心记加班" drawable="icona231a4fc" />
+
+
+    <item name="桔子浏览器" drawable="icon79b580f8" />
+
+
+    <item name="Any Screen Recorder" drawable="icone75d1afb" />
+
+
+    <item name="KakaoTalk : 通讯应用" drawable="icon028540c2" />
+
+
+    <item name="看理想" drawable="iconfc337d62" />
+
+
+    <item name="钛备份" drawable="iconb1af9b87" />
+
+
+    <item name="KMPlayer" drawable="iconbdeb663a" />
+
+
+    <item name="章鱼输入法" drawable="iconf8111122" />
+
+
+    <item name="微店" drawable="icon24f1985f" />
+
+
+    <item name="凯叔讲故事" drawable="iconc600c423" />
+
+
+    <item name="酷狗铃声" drawable="icon98a1abbc" />
+
+
+    <item name="邮政EMS" drawable="icon699d3775" />
+
+
+    <item name="帮你康复" drawable="icon6ab362c4" />
+
+
+    <item name="雷霆加速器" drawable="iconb2f2bc0f" />
+
+
+    <item name="联想智选" drawable="icon8c457a99" />
+
+
+    <item name="贝壳找房-买房卖房租房家居装修" drawable="icon5caa1413" />
+
+
+    <item name="猎聘同道" drawable="icon7fcadc97" />
+
+
+    <item name="Facetune" drawable="iconbd031196" />
+
+
+    <item name="Doodle Jump" drawable="iconf039c3ec" />
+
+
+    <item name="美柚" drawable="icon48305095" />
+
+
+    <item name="扫描君" drawable="icondc6f80a5" />
+
+
+    <item name="涨乐财富通" drawable="icon09f0d82a" />
+
+
+    <item name="得到" drawable="icon11d1b12e" />
+
+
+    <item name="1905电影网" drawable="icon0e602a93" />
+
+
+    <item name="DeadTrigger2" drawable="icon3a6a2669" />
+
+
+    <item name="华为云" drawable="icondaabf4f4" />
+
+
+    <item name="小黑盒" drawable="icon33029a9a" />
+
+
+    <item name="592美剧" drawable="icona6db49a0" />
+
+
+    <item name="九格切图" drawable="icona82cc42f" />
+
+
+    <item name="MakeupPlus" drawable="icon2f87238c" />
+
+
+    <item name="美团跑腿" drawable="icon986c002c" />
+
+
+    <item name="纸间书摘" drawable="icon85073c00" />
+
+
+    <item name="宾果消消消" drawable="icon280a523c" />
+
+
+    <item name="马蜂窝旅游" drawable="icon33a2df33" />
+
+
+    <item name="DS File" drawable="icon1a0d3a31" />
+
+
+    <item name="MYOTee脸萌/FaceQ" drawable="icon90ce4c25" />
+
+
+    <item name="Bing" drawable="icon182be297" />
+
+
+    <item name="Microsoft Excel" drawable="icond3131c25" />
+
+
+    <item name="Office Lens" drawable="icon93563808" />
+
+
+    <item name="Microsoft PowerPoint" drawable="icon823b899d" />
+
+
+    <item name="Microsoft Word" drawable="iconabae3240" />
+
+
+    <item name="微软翻译" drawable="iconf3dc16b2" />
+
+
+    <item name="小米计算器" drawable="icon29f6bb02" />
+
+
+    <item name="美剧星球" drawable="icon5dbd403c" />
+
+
+    <item name="MONO" drawable="icondea04ed7" />
+
+
+    <item name="蜜蜂出行" drawable="icond434df13" />
+
+
+    <item name="OfficeSuite Pro + PDF" drawable="icon7831a19d" />
+
+
+    <item name="云班课" drawable="icon2482e56b" />
+
+
+    <item name="时光网" drawable="icon982544f5" />
+
+
+    <item name="网商银行" drawable="iconb0e80ec3" />
+
+
+    <item name="拇指玩" drawable="icon94937205" />
+
+
+    <item name="MX Player" drawable="icondfb8d193" />
+
+
+    <item name="MX Player Pro" drawable="iconc7e9abf9" />
+
+
+    <item name="随手记" drawable="iconda91bc98" />
+
+
+    <item name="网易BUFF" drawable="icon350286a2" />
+
+
+    <item name="CC直播" drawable="iconac168dcc" />
+
+
+    <item name="中国大学MOOC" drawable="icon34f2df36" />
+
+
+    <item name="荒野行动" drawable="iconca76da12" />
+
+
+    <item name="网易邮箱大师" drawable="icond9d4b9fb" />
+
+
+    <item name="网易将军令" drawable="icon28d464b6" />
+
+
+    <item name="KineMaster" drawable="icon7d2db852" />
+
+
+    <item name="네이버 - NAVER" drawable="icon2bd211b8" />
+
+
+    <item name="Nice" drawable="icon47445675" />
+
+
+    <item name="Nike" drawable="icon0adaae78" />
+
+
+    <item name="小牛电动" drawable="icon828f559a" />
+
+
+    <item name="广西农信" drawable="icon8e35a95f" />
+
+
+    <item name="贵州农信" drawable="icon7639f47d" />
+
+
+    <item name="内蒙古农信" drawable="iconfff08e86" />
+
+
+    <item name="四川农信" drawable="icon2e07018c" />
+
+
+    <item name="生日管家" drawable="icon9e560d8f" />
+
+
+    <item name="好乐买" drawable="icon8ad9095e" />
+
+
+    <item name="Scene 5" drawable="icon9068b583" />
+
+
+    <item name="Opera 浏览器：快速又安全" drawable="icon3782bec3" />
+
+
+    <item name="Opera Mini web 浏览器" drawable="iconb5c42339" />
+
+
+    <item name="向日葵远程控制" drawable="icond0610c1d" />
+
+
+    <item name="坐车网" drawable="icone1282cff" />
+
+
+    <item name="GuitarTuna" drawable="icon45598a8c" />
+
+
+    <item name="Ovitalmap" drawable="icon7005e4c4" />
+
+
+    <item name="盼达用车" drawable="icon9e7e77ad" />
+
+
+    <item name="PandaVPN" drawable="icon21ad677f" />
+
+
+    <item name="PDF Editor" drawable="icon4a722e4c" />
+
+
+    <item name="证件照随拍" drawable="iconc9175f33" />
+
+
+    <item name="Color" drawable="icona584b4f6" />
+
+
+    <item name="PicsArt" drawable="icon21f996c4" />
+
+
+    <item name="平安好车主" drawable="icon0c91ccac" />
+
+
+    <item name="平安健康" drawable="icon1ea10d31" />
+
+
+    <item name="I深圳" drawable="iconb9f25138" />
+
+
+    <item name="Pinterest" drawable="icon5ee8ffd5" />
+
+
+    <item name="CCleaner" drawable="icona37cc0e0" />
+
+
+    <item name="不做手机控" drawable="iconfc791ca6" />
+
+
+    <item name="Gardenscapes" drawable="icond5d32d2e" />
+
+
+    <item name="微拾" drawable="icon90a89911" />
+
+
+    <item name="PPmoney理财" drawable="iconbab85d6b" />
+
+
+    <item name="PP助手" drawable="icon1ccc6c6f" />
+
+
+    <item name="拍拍贷借款 借钱借贷" drawable="icone77ecbd3" />
+
+
+    <item name="PP体育" drawable="icon2772a421" />
+
+
+    <item name="PP视频" drawable="icond698ff62" />
+
+
+    <item name="小睡眠 - 睡眠白噪音" drawable="icon80bf0cd2" />
+
+
+    <item name="南瓜影视" drawable="icond07bd654" />
+
+
+    <item name="腾讯翻译君" drawable="icon91dc5f0a" />
+
+
+    <item name="出国翻译官" drawable="icon26da2a8c" />
+
+
+    <item name="存储空间清理" drawable="icon9e6ddf36" />
+
+
+    <item name="360行车助手" drawable="icon15c8f26a" />
+
+
+    <item name="360免费WiFi" drawable="iconcc791d46" />
+
+
+    <item name="快剪辑" drawable="icond561a251" />
+
+
+    <item name="百姓网" drawable="icon4e6192f3" />
+
+
+    <item name="VivaVideo" drawable="iconaabc8541" />
+
+
+    <item name="万能钥匙" drawable="icon0285c18b" />
+
+
+    <item name="Reddit" drawable="icon54051ac2" />
+
+
+    <item name="唱鸭" drawable="icon3a023753" />
+
+
+    <item name="Angry Birds 2" drawable="icon76f5a06f" />
+
+
+    <item name="录屏大师" drawable="icone0040284" />
+
+
+    <item name="滴滴顺风车" drawable="icon6c8dfd8e" />
+
+
+    <item name="蜗牛睡眠" drawable="icon68e6d28f" />
+
+
+    <item name="720yun" drawable="iconb11e3efc" />
+
+
+    <item name="掌上电力" drawable="icon397fac57" />
+
+
+    <item name="扇贝听力口语" drawable="icon5b2eb251" />
+
+
+    <item name="扇贝单词英语版" drawable="icon3348290f" />
+
+
+    <item name="神马专车" drawable="iconb549617c" />
+
+
+    <item name="爱剪辑视频制作" drawable="iconffee78c5" />
+
+
+    <item name="顺风车" drawable="icondf7faeba" />
+
+
+    <item name="安狗狗清理大师" drawable="iconb6557f55" />
+
+
+    <item name="简喵" drawable="icon5bba1e86" />
+
+
+    <item name="Gallery" drawable="iconb0daec70" />
+
+
+    <item name="Gallery" drawable="icon2edcb30b" />
+
+
+    <item name="新浪邮箱" drawable="iconf95377e7" />
+
+
+    <item name="绿洲" drawable="icon05bc69c6" />
+
+
+    <item name="移动惠生活" drawable="icon28a269be" />
+
+
+    <item name="Skype" drawable="icon1ec1a632" />
+
+
+    <item name="Snapchat" drawable="iconf22ce3ad" />
+
+
+    <item name="WiFi Master Key Lite" drawable="iconaa9259a4" />
+
+
+    <item name="Bingo - 学习与生活神器" drawable="iconfcee11f5" />
+
+
+    <item name="搜狗地图" drawable="iconbebb998c" />
+
+
+    <item name="搜狗阅读" drawable="icon61f17153" />
+
+
+    <item name="搜狐新闻" drawable="icon37c45053" />
+
+
+    <item name="电影大师" drawable="icon51478e6b" />
+
+
+    <item name="应用权限管理/App access management #Sony" drawable="iconc385a06f" />
+
+
+    <item name="What's New #Sony" drawable="icon2d6ba296" />
+
+
+    <item name="节电优能/Power Optimizer #Sony" drawable="icon7fff9309" />
+
+
+    <item name="Support" drawable="icon3f578387" />
+
+
+    <item name="SoundCloud" drawable="icon5fa5562b" />
+
+
+    <item name="浦大喜奔" drawable="icon52edb680" />
+
+
+    <item name="Explorer" drawable="iconb159232a" />
+
+
+    <item name="RE文件管理器" drawable="icon75c1bca8" />
+
+
+    <item name="懂车帝极速版" drawable="icon60090be1" />
+
+
+    <item name="抖音火山版" drawable="icon522b7031" />
+
+
+    <item name="Quik" drawable="icon3b62a986" />
+
+
+    <item name="中油好客e站" drawable="icon26f62f45" />
+
+
+    <item name="苏宁金融" drawable="icon2af9a3a1" />
+
+
+    <item name="四川移动掌上营业厅" drawable="icon6e4f3c72" />
+
+
+    <item name="卡通农场 (Hay Day)" drawable="iconac7cfc55" />
+
+
+    <item name="最美装修" drawable="iconc2097c57" />
+
+
+    <item name="全球网测" drawable="icon94944eae" />
+
+
+    <item name="考研帮" drawable="icon40241f6d" />
+
+
+    <item name="一淘—淘宝官方返利、优惠券、比价客户端" drawable="icon23ded225" />
+
+
+    <item name="躺平" drawable="icon32d4da62" />
+
+
+    <item name="阿里众包" drawable="icon3c87a2b7" />
+
+
+    <item name="喵街" drawable="iconcbf5524e" />
+
+
+    <item name="脉脉" drawable="icon398490f9" />
+
+
+    <item name="腾讯相册管家" drawable="icon1ead08ea" />
+
+
+    <item name="和平营地" drawable="icon791fcddb" />
+
+
+    <item name="掌上飞车" drawable="icond1199ad6" />
+
+
+    <item name="PUBG MOBILE: Aftermath" drawable="icon5165a357" />
+
+
+    <item name="全民K歌极速版" drawable="iconbc0d54f9" />
+
+
+    <item name="QQ国际版" drawable="icon9ce6356c" />
+
+
+    <item name="QQ HD" drawable="icon78e79f3e" />
+
+
+    <item name="微信电话本" drawable="icon6f888f7e" />
+
+
+    <item name="企鹅电竞" drawable="icon07d56e25" />
+
+
+    <item name="QQ极速版" drawable="icon037695e6" />
+
+
+    <item name="腾讯视频 HD" drawable="icona000f318" />
+
+
+    <item name="轻听" drawable="icon83c7075d" />
+
+
+    <item name="QQ同步助手" drawable="icon528cf38a" />
+
+
+    <item name="龙珠激斗 七龙珠正版手游" drawable="icon60caa163" />
+
+
+    <item name="我叫MT4" drawable="icon5394b49c" />
+
+
+    <item name="天龙八部" drawable="iconb8ecf604" />
+
+
+    <item name="腾讯视频极速版" drawable="iconffdb0ab9" />
+
+
+    <item name="腾讯WiFi管家" drawable="icon158f3b7e" />
+
+
+    <item name="Nova Launcher" drawable="iconc513c9e5" />
+
+
+    <item name="2345天气王" drawable="icon1f4d7d2d" />
+
+
+    <item name="有兔阅读" drawable="icon237e44df" />
+
+
+    <item name="淘手游" drawable="iconbac1796a" />
+
+
+    <item name="折800" drawable="icon71c92533" />
+
+
+    <item name="觅马出行" drawable="icond362a466" />
+
+
+    <item name="途牛旅游" drawable="icon381d6a1a" />
+
+
+    <item name="途游斗地主" drawable="icon09f858b8" />
+
+
+    <item name="有妖气漫画-镇魂街独家连载" drawable="icond103cc24" />
+
+
+    <item name="航旅纵横" drawable="icon7ef4d3cb" />
+
+
+    <item name="追书神器免费版" drawable="icon0b289bdf" />
+
+
+    <item name="萤石云视频" drawable="icon56265869" />
+
+
+    <item name="车行易查违章" drawable="iconed7c44b1" />
+
+
+    <item name="华为商城" drawable="icon2f4d74ff" />
+
+
+    <item name="VSCO: 照片编辑和视频编辑器" drawable="iconae1a29f8" />
+
+
+    <item name="万达电影" drawable="iconb81c4ad8" />
+
+
+    <item name="豌豆荚" drawable="iconddaa0668" />
+
+
+    <item name="FotoRus" drawable="iconfe852377" />
+
+
+    <item name="权限狗" drawable="iconc01d8d08" />
+
+
+    <item name="微众银行" drawable="iconc1341aa4" />
+
+
+    <item name="账号本子" drawable="icon349341f2" />
+
+
+    <item name="鲜城" drawable="icon8db3d2b7" />
+
+
+    <item name="学霸君" drawable="icon09a94f2b" />
+
+
+    <item name="谁是卧底" drawable="icon46b74cf5" />
+
+
+    <item name="365日历" drawable="icon8f530719" />
+
+
+    <item name="招才猫直聘" drawable="icon6f81188c" />
+
+
+    <item name="悟空遥控器" drawable="icon442b1784" />
+
+
+    <item name="腕表之家" drawable="icon9d094c70" />
+
+
+    <item name="天星金融" drawable="icon5959007b" />
+
+
+    <item name="小米贷款" drawable="icon87065d0c" />
+
+
+    <item name="小爱同学" drawable="icon6dd789b0" />
+
+
+    <item name="上海地铁通" drawable="icon74a327cc" />
+
+
+    <item name="印象笔记" drawable="iconbd6ebb73" />
+
+
+    <item name="荔枝" drawable="icone312556c" />
+
+
+    <item name="应用汇" drawable="icon6aa2e052" />
+
+
+    <item name="比心" drawable="icone1d75614" />
+
+
+    <item name="TT" drawable="icon119da56d" />
+
+
+    <item name="115" drawable="iconf7247e31" />
+
+
+    <item name="福建农信" drawable="icondc2f9c08" />
+
+
+    <item name="YohoBuy有货" drawable="icon25abed43" />
+
+
+    <item name="大姨妈" drawable="icon57c55930" />
+
+
+    <item name="超级计算器" drawable="icon1522543c" />
+
+
+    <item name="有道云笔记" drawable="iconbad25d12" />
+
+
+    <item name="万年历" drawable="icon005b9052" />
+
+
+    <item name="原神" drawable="icon40111010" />
+
+
+    <item name="雅思单词" drawable="icon72c9ed23" />
+
+
+    <item name="站酷" drawable="icon059fb7a9" />
+
+
+    <item name="SSRR" drawable="icon70c3ef51" />
+
+
+    <item name="潮汐" drawable="icon6bc16c22" />
+
+
+    <item name="ZDcal-Calendar,Agent,Birthday" drawable="icon9bacb2d3" />
+
+
+    <item name="ZDclock" drawable="icon7bc2c0c0" />
+
+
+    <item name="e养车" drawable="icon57f3d905" />
+
+
+    <item name="中关村在线" drawable="icon408542c5" />
+
+
+    <item name="Ctrip" drawable="iconc7367f31" />
+
+
+    <item name="手机电视" drawable="icon2d886c6f" />
+
+
+    <item name="课程格子-小课表，大格局" drawable="icon4978e58a" />
+
+
+    <item name="余音" drawable="icon1b9992d6" />
+
+
+    <item name="搞机助手-Local" drawable="icon506e6fc2" />
+
+
+    <item name="Pure天气" drawable="icon05bd2862" />
+
+
+    <item name="行者" drawable="icone508b0f5" />
+
+
+    <item name="Jellow" drawable="icon6c9bdaf1" />
+
+
+    <item name="春雨医生" drawable="icon77002b85" />
+
+
+    <item name="LINE" drawable="icone03b7ee8" />
+
+
+    <item name="Bmap" drawable="icon2061b5df" />
+
+
+    <item name="Lyrics Jaeger" drawable="icon209fb540" />
+
+
+    <item name="LongScreenshot" drawable="icon824f5e40" />
+
+
+    <item name="AppSales" drawable="icon84fd08ee" />
+
+
+    <item name="坚果云" drawable="icon443777e2" />
+
+
+    <item name="欧了出行" drawable="iconaf18f4a8" />
+
+
+    <item name="Lantern蓝灯VPN" drawable="iconb5398dfd" />
+
+
+    <item name="古诗文网" drawable="iconed87d464" />
+
+
+    <item name="Recorder" drawable="icon3a1b9fd2" />
+
+
+    <item name="OLED Saver" drawable="icon4146c356" />
+
+
+    <item name="EdXposed Manager" drawable="icone482190c" />
+
+
+    <item name="粉粉日记" drawable="icona8dbc57d" />
+
+
+    <item name="护眼宝防蓝光" drawable="icon92cedae0" />
+
+
+    <item name="ZArchiver" drawable="icon2a81a0a7" />
+
+
+    <item name="压缩大师专业版" drawable="icon5b459138" />
+
+
+    <item name="天气通" drawable="icon10a5fa89" />
+
+
+    <item name="一句" drawable="icon027b0a54" />
+
+
+    <item name="带壳截图Pro" drawable="icon62be5cce" />
+
+
+    <item name="时光相册" drawable="icon47d74cd9" />
+
+
+    <item name="PanDownload" drawable="icon642fba0e" />
+
+
+    <item name="推送服务" drawable="iconffdad83c" />
+
+
+    <item name="一直播" drawable="icon6c8e84ec" />
+
+
+    <item name="NateOn" drawable="iconcdc8ef73" />
+
+
+    <item name="XRecorder" drawable="icon55662984" />
+
+
+    <item name="星空视频壁纸" drawable="iconb6931062" />
+
+
+    <item name="10086" drawable="icon7b5866ec" />
+
+
+    <item name="球球大作战" drawable="iconeca1c713" />
+
+
+    <item name="完美校园" drawable="icon250af79a" />
+
+
+    <item name="醒图" drawable="iconf72eb972" />
+
+
+    <item name="Z直播" drawable="icon35768fd9" />
+
+
+    <item name="叮咚买菜" drawable="icon637e6ef9" />
+
+
+    <item name="1DM" drawable="icon85da29f1" />
+
+
+    <item name="天津地铁" drawable="iconb3bfba92" />
+
+
+    <item name="小猿搜题" drawable="icon3588b601" />
+
+
+    <item name="猿辅导" drawable="icon266fde2b" />
+
+
+    <item name="CSDN" drawable="icon4c281fa0" />
+
+
+    <item name="Facebook" drawable="icon816bc20b" />
+
+
+    <item name="Twitch" drawable="iconb881fd21" />
+
+
+    <item name="Speedtest" drawable="iconab19ae30" />
+
+
+    <item name="PicACG" drawable="iconb5399d71" />
+
+
+    <item name="ADM" drawable="icon6da285dd" />
+
+
+    <item name="Netflix" drawable="icon0904aea3" />
+
+
+    <item name="海贝音乐" drawable="iconf12ac0f3" />
+
+
+    <item name="邮件" drawable="iconde7b2c75" />
+
+
+    <item name="叨鱼" drawable="icon6b53bf39" />
+
+
+    <item name="飞书" drawable="icon5fb0d00f" />
+
+
+    <item name="贴吧 Lite" drawable="icon509e6f84" />
+
+
+    <item name="米游社" drawable="icon8dfbedf9" />
+
+
+    <item name="Notion" drawable="iconf4c0fcc7" />
+
+
+    <item name="宝宝记" drawable="iconb3fff9f0" />
+
+
+    <item name="今日水印相机" drawable="icon673afe40" />
+
+
+    <item name="智能管理器" drawable="icon919ede8c" />
+
+
+    <item name="Kiwi Browser" drawable="icon82dc55c6" />
+
+
+    <item name="书城" drawable="icon34613e1b" />
+
+
+    <item name="静读天下专业版" drawable="icond6212079" />
+
+
+    <item name="百度知道" drawable="icon80165d10" />
+
+
+    <item name="我的南京" drawable="icon846d17c0" />
+
+
+    <item name="步道乐跑" drawable="icon537dec2b" />
+
+
+    <item name="歌词适配" drawable="icon9db69dc7" />
+
+
+    <item name="美团外卖商家版" drawable="icon0780c47c" />
+
+
+    <item name="查找手机" drawable="icon0ad5847a" />
+
+
+    <item name="家庭守护" drawable="iconfeb81746" />
+
+
+    <item name="计步器" drawable="icon286cb6b4" />
+
+
+    <item name="魅族工具箱" drawable="iconf3788b6b" />
+
+
+    <item name="待办事项" drawable="iconbfe9d01f" />
+
+
+    <item name="魅族服务" drawable="icon9c96de07" />
+
+
+    <item name="AR尺子" drawable="icone2c93e1c" />
+
+
+    <item name="蚂蚁财富" drawable="icon1b37b72f" />
+
+
+    <item name="美的美居" drawable="icon78622572" />
+
+
+    <item name="摩托范" drawable="iconf713e27b" />
+
+
+    <item name="魅族社区" drawable="icon24c7d7ec" />
+
+
+    <item name="魅族换机助手" drawable="icon5e763b18" />
+
+
+    <item name="TP-LINK物联" drawable="icon57ad93e5" />
+
+
+    <item name="好轻" drawable="iconf67fd930" />
+
+
+    <item name="ibetter" drawable="icon65cdfee7" />
+
+
+    <item name="loop" drawable="iconf6bcb9dc" />
+
+
+    <item name="畅连" drawable="icon61102a19" />
+
+
+    <item name="微信读书" drawable="icon0dc46a44" />
+
+
+    <item name="曹操出行" drawable="iconf9a472a7" />
+
+
+    <item name="北京银行" drawable="icon7fa5cb38" />
+
+
+    <item name="One Hand Operation +" drawable="icond40be8ea" />
+
+
+    <item name="发现精彩" drawable="icon31359b82" />
+
+
+    <item name="兴业生活" drawable="icon1831558b" />
+
+
+    <item name="ToDesk" drawable="icon9a1bc47b" />
+
+
+    <item name="学信网" drawable="icon56b78bef" />
+
+
+    <item name="移动办公M3" drawable="icona59a02e5" />
+
+
+    <item name="Shizuku" drawable="icon91c7261e" />
+
+
+    <item name="记事本" drawable="icon49beec7f" />
+
+
+    <item name="编程狮" drawable="icon7df76d0b" />
+
+
+    <item name="快对" drawable="icon8cac8bba" />
+
+
+    <item name=" 滴滴青桔" drawable="icon0ab9be45" />
+
+
+    <item name="中国象棋" drawable="iconc8f351a2" />
+
+
+    <item name="广东农信" drawable="icon7c3bd8e2" />
+
+
+    <item name="海尔智家" drawable="icon442baa71" />
+
+
+    <item name=" 加油广东" drawable="icon65906f61" />
+
+
+    <item name="京东极速版" drawable="icon553851b2" />
+
+
+    <item name="小米电视助手" drawable="icon133acd63" />
+
+
+    <item name="GIF助手" drawable="icon797be09a" />
+
+
+    <item name="QQ音乐简洁版" drawable="icon86c4ae78" />
+
+
+    <item name="Twidere" drawable="icon3ba5a43b" />
+
+
+    <item name="VMOS Pro" drawable="icon7fa5f477" />
+
+
+    <item name="万能联播" drawable="icon5fa6a790" />
+
+
+    <item name="AIDA64" drawable="icon2e19dace" />
+
+
+    <item name="XDA" drawable="icone41166fe" />
+
+
+    <item name="易捷加油" drawable="iconb8031c28" />
+
+
+    <item name="乐播投屏" drawable="icona766ef24" />
+
+
+    <item name="慢慢买" drawable="icondb50c430" />
+
+
+    <item name="平安金管家" drawable="icon4765bd9e" />
+
+
+    <item name="国际上网" drawable="iconee18ce9c" />
+
+
+    <item name="海阔视界" drawable="icon5cb0aaaa" />
+
+
+    <item name="当当云阅读" drawable="iconbdacabf7" />
+
+
+    <item name="安全文件夹" drawable="iconfd83b2f6" />
+
+
+    <item name="WindLink" drawable="icon879abb1e" />
+
+
+    <item name="盖得排行" drawable="icon85ae6d53" />
+
+
+    <item name="数字尾巴" drawable="icon85482537" />
+
+
+    <item name="牛客" drawable="icon5b309bdc" />
+
+
+    <item name="提醒" drawable="icon3e32d94c" />
+
+
+    <item name="360家庭防火墙" drawable="icon45b4b837" />
+
+
+    <item name="北京通" drawable="icon0670aba4" />
+
+
+    <item name="好奇心日报" drawable="icon4dbf9fbf" />
+
+
+    <item name="Flyme助手" drawable="iconb1f23b08" />
+
+
+    <item name="欢律" drawable="icon2701145e" />
+
+
+    <item name="HandShaker" drawable="icon1d16382a" />
+
+
+    <item name="Xender" drawable="icon3266ff16" />
+
+
+    <item name="凯立德导航" drawable="icone25922fd" />
+
+
+    <item name="8684公交" drawable="icon8a0f153d" />
+
+
+    <item name="Artand" drawable="iconb0e0c927" />
+
+
+    <item name="8684地铁" drawable="icon7b4dbac6" />
+
+
+    <item name="139邮箱" drawable="icon2e7d135c" />
+
+
+    <item name="用药助手" drawable="icon0bc99f93" />
+
+
+    <item name="随便走" drawable="icon0fc805c9" />
+
+
+    <item name="Highing" drawable="icon62cdf656" />
+
+
+    <item name="有料短视频" drawable="icone933b049" />
+
+
+    <item name="涂手" drawable="iconb1b7956e" />
+
+
+    <item name="全国违章查询" drawable="icon3e9f6e51" />
+
+
+    <item name="挑战plank" drawable="icon9b853ce1" />
+
+
+    <item name="花熊" drawable="icone63600c8" />
+
+
+    <item name="天涯日报" drawable="icond5317ed5" />
+
+
+    <item name="为知笔记" drawable="icon154c3776" />
+
+
+    <item name="活动行" drawable="icon24830627" />
+
+
+    <item name="本来生活" drawable="icon2c1f0bd6" />
+
+
+    <item name="Anyview Reader" drawable="icond198fcab" />
+
+
+    <item name="Any.do" drawable="icon2fec4f3e" />
+
+
+    <item name="艺术头条" drawable="icon82225541" />
+
+
+    <item name="百度百科" drawable="icon3f844675" />
+
+
+    <item name="SpeedX" drawable="icon313a0e02" />
+
+
+    <item name="球探体育" drawable="iconfeaf27ff" />
+
+
+    <item name="魔兽助手" drawable="icon3a2cb0eb" />
+
+
+    <item name="萝卜书摘" drawable="icon73a18fdb" />
+
+
+    <item name="Booking全球酒店预订" drawable="iconaa994fe5" />
+
+
+    <item name="消灭星星经典版" drawable="icon408f76c7" />
+
+
+    <item name="猫叫模拟器" drawable="icon6aa1d58f" />
+
+
+    <item name="Beauty-最美创意" drawable="icone22d3431" />
+
+
+    <item name="生辰" drawable="iconbd18a7d1" />
+
+
+    <item name="migumovie" drawable="icond5a611a6" />
+
+
+    <item name="Cymera" drawable="icon74bef07c" />
+
+
+    <item name="BeautyPlus" drawable="icon69f67a56" />
+
+
+    <item name="煎蛋" drawable="icon2df6fa22" />
+
+
+    <item name="豆瓣音乐人" drawable="icon17cca623" />
+
+
+    <item name="Flappy Bird" drawable="icon099ffe17" />
+
+
+    <item name="一刻" drawable="icon9c98b080" />
+
+
+    <item name="豆瓣小组" drawable="icon331f06fd" />
+
+
+    <item name="豆瓣广播" drawable="icon0a69a45d" />
+
+
+    <item name="多玩饭盒" drawable="icona89788dd" />
+
+
+    <item name="轻账本" drawable="iconef76c37a" />
+
+
+    <item name="e袋洗" drawable="iconef1d097d" />
+
+
+    <item name="Star Chart Infinite" drawable="icon2bf2963a" />
+
+
+    <item name="Dehelper" drawable="iconaf76a0cf" />
+
+
+    <item name="Fotor照片编辑器" drawable="icon95fed65b" />
+
+
+    <item name="Expedia" drawable="icon29e587d8" />
+
+
+    <item name="纷享销客CRM" drawable="icond1cc5ec9" />
+
+
+    <item name="Banana Kong" drawable="icon64240d8c" />
+
+
+    <item name="Ahorro" drawable="icon18d62116" />
+
+
+    <item name="Flynx" drawable="icona722988d" />
+
+
+    <item name="韩熙载夜宴图" drawable="iconbce9082b" />
+
+
+    <item name="熊猫出行" drawable="iconb86875c4" />
+
+
+    <item name="极略三国" drawable="icona2fc20cf" />
+
+
+    <item name="狂野飙车8：极速凌云" drawable="icon33e73785" />
+
+
+    <item name="神偷奶爸：小黄人快跑" drawable="icon8b02981a" />
+
+
+    <item name="赶集直招" drawable="iconc185724a" />
+
+
+    <item name="国美" drawable="icon6a2b1cff" />
+
+
+    <item name="掌厨" drawable="icon0a5cb321" />
+
+
+    <item name="Google pay" drawable="iconed610083" />
+
+
+    <item name="Google 地球" drawable="icon32108bdd" />
+
+
+    <item name="GOSKI" drawable="icone705e2de" />
+
+
+    <item name="抽屉新热榜" drawable="iconc40f6a7e" />
+
+
+    <item name="Rainville" drawable="icon6f153099" />
+
+
+    <item name="果库" drawable="icond9f9df17" />
+
+
+    <item name="公牛炒股" drawable="icone54c5488" />
+
+
+    <item name="永不言弃!!" drawable="icon16550478" />
+
+
+    <item name="史上最坑爹的游戏" drawable="icona05acf71" />
+
+
+    <item name="Candy Camera" drawable="icon0f4f635b" />
+
+
+    <item name="南瓜先生" drawable="icon03f3fee8" />
+
+
+    <item name="Peekaboo" drawable="icon0f2acd0d" />
+
+
+    <item name="爱壁纸" drawable="icona4f89062" />
+
+
+    <item name="Smash Hit" drawable="icon3ac1e6d0" />
+
+
+    <item name="有声翻译机" drawable="icon73891665" />
+
+
+    <item name="Being With You" drawable="icon4629797d" />
+
+
+    <item name="MeiTuGIF" drawable="icon348a6d53" />
+
+
+    <item name="mx5" drawable="icon3f5dcb6d" />
+
+
+    <item name="熊猫看书" drawable="iconb4b8cfe5" />
+
+
+    <item name="iweekly" drawable="icon6ee3656a" />
+
+
+    <item name="标准日本语" drawable="icon115a10e0" />
+
+
+    <item name="犀牛故事" drawable="icon5d666ca8" />
+
+
+    <item name="美团开店宝" drawable="iconda46e5e8" />
+
+
+    <item name="TTPod" drawable="icona4d0ce7f" />
+
+
+    <item name="闽政通" drawable="iconb95806e1" />
+
+
+    <item name="全民突击" drawable="icona7a378b7" />
+
+
+    <item name="UCamera" drawable="icon9d7a61da" />
+
+
+    <item name="银联手机支付服务" drawable="icon4cfeb381" />
+
+
+    <item name="优衣库" drawable="iconb2751879" />
+
+
+    <item name="时空猎人" drawable="icon1bac3456" />
+
+
+    <item name="念" drawable="icon1653a3e6" />
+
+
+    <item name="1" drawable="icon480126be" />
+
+
+    <item name="Love Live!" drawable="icona3f15984" />
+
+
+    <item name="广州地铁" drawable="icone4c41cdf" />
+
+
+    <item name="深圳地铁" drawable="iconb6966e64" />
+
+
+    <item name="北京地铁" drawable="icon7cb641b6" />
+
+
+    <item name="魅族穿戴" drawable="icon096f0b73" />
+
+
+    <item name="扫一扫" drawable="icon5773dbd0" />
+
+
+    <item name="全球上网" drawable="iconce8d2d36" />
+
+
+    <item name="短视频" drawable="iconc9ebd5c5" />
+
+
+    <item name="小米视频" drawable="icon7607b651" />
+
+
+    <item name="服务与反馈" drawable="icon13b2deb4" />
+
+
+    <item name="USIM卡应用" drawable="icon64c8c7a0" />
+
+
+    <item name="荣耀商城" drawable="icone39211d2" />
+
+
+    <item name="AR 区" drawable="icon4fd03d4a" />
+
+
+    <item name="三星多屏联动" drawable="iconbe8d801c" />
+
+
+    <item name="三星畅联" drawable="icon09ee3c57" />
+
+
+    <item name="三星浏览器专用 Adblock Plus" drawable="icon23bdb660" />
+
+
+    <item name="三星手机服务通" drawable="icone6595dd3" />
+
+
+    <item name="三星智能穿戴" drawable="icon1c9b3beb" />
+
+
+    <item name="三星FM" drawable="iconaeba8f58" />
+
+
+    <item name="Samsung Max" drawable="iconf019d7f9" />
+
+
+    <item name="Sound Assistant" drawable="icon6b8804ee" />
+
+
+    <item name="Nice Catch" drawable="iconff606d8f" />
+
+
+    <item name="应用商店" drawable="icon16bdf07f" />
+
+
+    <item name="AdGuard Content" drawable="icona20ba62f" />
+
+
+    <item name="Sam Helper" drawable="iconb2aed6a5" />
+
+
+    <item name="mono" drawable="iconb2c33150" />
+
+
+    <item name="字典" drawable="icon4b865032" />
+
+
+    <item name="Good Guardians" drawable="icon5989376a" />
+
+
+    <item name="链接分享" drawable="icon174dddab" />
+
+
+    <item name="Good Lock" drawable="iconf7bf6c30" />
+
+
+    <item name="Edge touch" drawable="icon63b13799" />
+
+
+    <item name="Bixby 视觉" drawable="icon61c93742" />
+
+
+    <item name="装饰图片" drawable="icon119afd84" />
+
+
+    <item name="搜索" drawable="icon6161cb88" />
+
+
+    <item name="Bixby 日常程序" drawable="icone943c4a6" />
+
+
+    <item name="意见反馈" drawable="icona46d0142" />
+
+
+    <item name="使用技巧" drawable="icon1bec6007" />
+
+
+    <item name="联系人" drawable="icon3dd2e0db" />
+
+
+    <item name="极速视频" drawable="icon3739bbb1" />
+
+
+    <item name="T3出行" drawable="icon1a59edb7" />
+
+
+    <item name="特斯拉" drawable="icon4f32838a" />
+
+
+    <item name="Google 日语输入法" drawable="icon9cee203a" />
+
+
+    <item name="Kindle" drawable="icon1eaa8299" />
+
+
+    <item name="Play Services Info" drawable="icon956530f3" />
+
+
+    <item name="RS文件管理器" drawable="icon7402e430" />
+
+
+    <item name="TapTap" drawable="icon16a657e9" />
+
+
+    <item name="机核" drawable="iconbba4900b" />
+
+
+    <item name="UU主机加速" drawable="icon3db9a68b" />
+
+
+    <item name="朴朴" drawable="icon89f53c4f" />
+
+
+    <item name="爱美化" drawable="icon17773ae1" />
+
+
+    <item name="换机助手" drawable="icon62113d6b" />
+
+
+    <item name="计算器" drawable="icon78a8b570" />
+
+
+    <item name="浏览器" drawable="icon07a12740" />
+
+
+    <item name="魅族社区" drawable="icon216c197d" />
+
+
+    <item name="录音机" drawable="iconf6042954" />
+
+
+    <item name="识货" drawable="icon4901cf27" />
+
+
+    <item name="网易云音乐" drawable="icon8ff84034" />
+
+
+    <item name="MT管理器" drawable="icon3f69e8ed" />
+
+
+    <item name="Soda苏打" drawable="icon2b741f64" />
+
+
+    <item name="直播吧" drawable="icon40398055" />
+
+
+    <item name="小宇宙" drawable="iconeed334cf" />
+
+
+    <item name="民生银行" drawable="icon6f1d87ad" />
+
+
+    <item name="汇丰银行" drawable="icond2f9589e" />
+
+
+    <item name="广州银行" drawable="iconabc00650" />
+
+
+    <item name="徽商银行" drawable="icon4515444c" />
+
+
+    <item name="上海银行" drawable="icon02e21521" />
+
+
+    <item name="蔚来" drawable="icon2986cff3" />
+
+
+    <item name="大麦" drawable="iconf26e5415" />
+
+
+    <item name="广汽本田" drawable="iconf1262091" />
+
+
+    <item name="山姆会员商店" drawable="icon26a3f935" />
+
+
+    <item name="永辉生活" drawable="icon35e72784" />
+
+
+    <item name="阿维塔" drawable="icon4af5e142" />
+
+
+    <item name="华硕路由器" drawable="iconcfdb5bc7" />
+
+
+    <item name="百度CarLife+" drawable="icond8bfb6c1" />
+
+
+    <item name="ARCFOX极狐" drawable="icon01902612" />
+
+
+    <item name="国家医保服务平台" drawable="icon4adb0142" />
+
+
+    <item name="九号出行" drawable="icond27253f5" />
+
+
+    <item name="Metro大都会" drawable="icona745d8a5" />
+
+
+    <item name="沃尔沃汽车" drawable="icon5ad37610" />
+
+
+    <item name="长安汽车" drawable="icone0cec581" />
+
+
+    <item name="理想汽车" drawable="icon54f88cef" />
+
+
+    <item name="德邦快递" drawable="icon36753437" />
+
+
+    <item name="库迪咖啡" drawable="icon5983efca" />
+
+
+    <item name="零跑" drawable="icon1fd9dcfe" />
+
+
+    <item name="吉利汽车" drawable="icone892e944" />
+
+
+    <item name="大疆" drawable="icon64edec60" />
+
+
+    <item name="东亚银行" drawable="icon2614a304" />
+
+
+    <item name="智慧生活" drawable="iconb3ea308f" />
+
+
+    <item name="工行e生活" drawable="icon23942d27" />
+
+
+    <item name="讯飞星火" drawable="icon8301f6ec" />
+
+
+    <item name="讯飞语记" drawable="icon6f143ff7" />
+
+
+    <item name="LynkCo" drawable="icon5d962715" />
+
+
+    <item name="极氪" drawable="iconad94af5e" />
+
+
+    <item name="海底捞" drawable="icon1bdfab3e" />
+
+
+    <item name="明日方舟" drawable="icon9b9dc08c" />
+
+
+    <item name="华夏银行" drawable="icon0617debf" />
+
+
+    <item name="长安银行" drawable="iconc03afb84" />
+
+
+    <item name="Aqara" drawable="icon74184e84" />
+
+
+    <item name="鲁大师" drawable="icon679184b9" />
+
+
+    <item name="汽水音乐" drawable="icon1f00abcc" />
+
+
+    <item name="小米汽车" drawable="icone761f4ca" />
+
+
+    <item name="小米运动健康" drawable="icon8a5210b4" />
+
+
+    <item name="出门问问" drawable="icon1c43d303" />
+
+
+    <item name="Kimi智能助手" drawable="icon795fd6ed" />
+
+
+    <item name="网易大神" drawable="icon92829124" />
+
+
+    <item name="美团优选" drawable="icon3af559dd" />
+
+
+    <item name="秀动" drawable="icon5d68c3fb" />
+
+
+    <item name="TIM" drawable="icona20d1d14" />
+
+
+    <item name="天猫养车" drawable="icon67c7c8dd" />
+
+
+    <item name="抖音精选" drawable="icone5407d12" />
+
+
+    <item name="东风日产" drawable="iconcbbdf342" />
+
+
+    <item name="海岛奇兵" drawable="icon631d17a6" />
+
+
+    <item name="微信输入法" drawable="icon66daf339" />
+
+
+    <item name="地下城与勇士" drawable="iconfd2bc67f" />
+
+
+    <item name="小鹏汽车" drawable="icon8db3a066" />
+
+
+    <item name="雪球" drawable="icon3bc4630e" />
+
+
+    <item name="Lsposed" drawable="icon48554fa4" />
+
+
+    <item name="Titsune Mask" drawable="icon6c33d9d3" />
+
+
+    <item name="易车" drawable="icond64cf8f2" />
+
+
+    <item name="Xmind" drawable="icon91be1055" />
+
+
+    <item name="时光序" drawable="icon17784a3c" />
+
+
+    <item name="深蓝汽车" drawable="icon7a1958c8" />
+
+
+    <item name="My BMW" drawable="iconc210b112" />
+
+
+    <item name="一汽大众" drawable="iconf76af326" />
+
+
+    <item name="鸿蒙智行" drawable="icon961091c3" />
+
+
+    <item name="摩天轮票务" drawable="icon369065de" />
+
+
+    <item name="腾势汽车" drawable="icon7b4f680d" />
+
+
+    <item name="中信证券" drawable="icon55bc2624" />
+
+
+    <item name="Chat GPT" drawable="icon829b0aa7" />
+
+
+    <item name="Grab" drawable="icon0a23cb0d" />
+
+
+    <item name="Agoda" drawable="icone4d56aa4" />
+
+
+    <item name="欧拉" drawable="iconddfff227" />
+
+
+    <item name="林肯" drawable="icon5f751c32" />
+
+
+    <item name="哪吒汽车" drawable="icon316a6548" />
+
+
+    <item name="文心一言" drawable="icon747a0cae" />
+
+
+    <item name="豆包" drawable="iconfa006c91" />
+
+
+    <item name="特来电" drawable="icon21a5ca63" />
+
+
+    <item name="花瓣" drawable="iconc289a0cf" />
+
+
+    <item name="安全教育平台" drawable="icon70052bdf" />
+
+
+    <item name="布丁扫描" drawable="iconf6892bd1" />
+
+
+    <item name="超格教育" drawable="iconf488b7dd" />
+
+
+    <item name="徕芬" drawable="icon54cf01c4" />
+
+
+    <item name="小星记账" drawable="icon4afe9a90" />
+
+
+    <item name="123云盘" drawable="icon5212ea3a" />
+
+
+    <item name="AGC" drawable="icon963d467a" />
+
+
+    <item name="少数派" drawable="icone7305b6c" />
+
+
+    <item name="WhatsApp" drawable="icon047121c3" />
+
+
+    <item name="微爱" drawable="icon6429b657" />
+
+
+    <item name="淘宝联盟" drawable="icon617176f1" />
+
+
+    <item name="元气壁纸" drawable="icon4bd7ada4" />
+
+
+    <item name="熊猫速汇" drawable="icon499ee95a" />
+
+
+    <item name="Singtel Dash" drawable="icon50a3cac4" />
+
+
+    <item name="喵趣漫画" drawable="icon1756af06" />
+
+
+    <item name="帆书" drawable="icon28009b1f" />
+
+
+    <item name="hi!App" drawable="icone9127bb6" />
+
+
+    <item name="Papago" drawable="icon8c0eff0c" />
+
+
+    <item name="狮城论坛" drawable="icon316fcb1c" />
+
+
+    <item name="PDF Extra" drawable="icon3a81ba74" />
+
+
+    <item name="OneMap" drawable="icon78c473e5" />
+
+
+    <item name="花瓣测速" drawable="icon642bb773" />
+
+
+    <item name="Citymapper" drawable="icond0156ead" />
+
+
+    <item name="iGV" drawable="icon44fd8046" />
+
+
+    <item name="meHR" drawable="icon892797bc" />
+
+
+    <item name="Carousell" drawable="icon1ca2ae0c" />
+
+
+    <item name="千岛" drawable="iconc6298e79" />
+
+
+    <item name="OCBC" drawable="icon99eaf936" />
+
+
+    <item name="爱奇艺体育" drawable="icon0dcd9c61" />
+
+
+    <item name="花生日记" drawable="icona717016b" />
+
+
+    <item name="雅迪智行" drawable="icone7ba6665" />
+
+
+    <item name="通义" drawable="iconf7d324be" />
+
+
+    <item name="Gemini" drawable="icon63fd5ba9" />
+
+
+    <item name="Clash Meta" drawable="icon3073cc8c" />
+
+
+    <item name="资源猫" drawable="iconeafb75e1" />
+
+
+    <item name="爱维宝贝" drawable="icon79a94e9a" />
+
+
+    <item name="SPAX" drawable="icon6f524507" />
+
+
+    <item name="MusicFree" drawable="icon72eb8666" />
+
+
+    <item name="Hi星途" drawable="icon6e20ccfc" />
+
+
+    <item name="自动跳过" drawable="iconea3abffd" />
+
+
+    <item name="AdGuard" drawable="icone0fd098b" />
+
+
+    <item name="PREQUEL" drawable="icon0d4f41f3" />
+
+
+    <item name="CCD相机" drawable="icon71ff773c" />
+
+
+    <item name="九机网" drawable="iconda100106" />
+
+
+    <item name="Google News" drawable="icon2d6677e4" />
+
+
+    <item name="中国大地超A" drawable="iconbf92ce85" />
+
+
+    <item name="盛夏黑卷" drawable="icon1bd537ee" />
+
+
+    <item name="今日影视" drawable="icon1789ccd8" />
+
+
+    <item name="Camera Assistant" drawable="iconcd2a813d" />
+
+
+    <item name="dynamicSpot" drawable="iconf8540fde" />
+
+
+    <item name="Octima" drawable="icona59dae5d" />
+
+
+    <item name="傻瓜英语" drawable="icon8c9ea8fc" />
+
+
+    <item name="Pentastic" drawable="iconcb470817" />
+
+
+    <item name="中国领事" drawable="icon0ce3db8e" />
+
+
+    <item name="小象超市" drawable="icon11b7f92e" />
+
+
+    <item name="番茄畅听" drawable="icon31268c90" />
+
+
+    <item name="中海商务" drawable="iconfd8b3be9" />
+
+
+    <item name="迷上我" drawable="icon0e2ce56c" />
+
+
+    <item name="95分" drawable="icond3645a07" />
+
+
+    <item name="智灯 Pro" drawable="iconafad2970" />
+
+
+    <item name="Aicy 语音" drawable="icon06836596" />
+
+
+    <item name="场景助手" drawable="icon49840439" />
+
+
+    <item name="北通游戏厅" drawable="icon56dc3143" />
+
+
+    <item name="Gboard" drawable="icon38e905aa" />
+
+
+    <item name="快连VPN" drawable="icon1526e77d" />
+
+
+    <item name="1" drawable="icone1f42ceb" />
+
+
+    <item name="腾讯元宝" drawable="icona0f9d6d9" />
+
+
+    <item name="天工" drawable="icondf3ce474" />
+
+
+    <item name="他趣" drawable="icon80657d65" />
+
+
+    <item name="同城游" drawable="icon2a62b13b" />
+
+
+    <item name="NoActive" drawable="icon3f1be5e3" />
+
+
+    <item name="爱玩工具箱" drawable="icon3c30c588" />
+
+
+    <item name="KernelSU" drawable="icon15ee4522" />
+
+
+    <item name="Wear OS" drawable="icondb77d2dc" />
+
+
+    <item name="电子税务局" drawable="icon528b4dc1" />
+
+
+    <item name="飞客" drawable="icon3e60b7bd" />
+
+
+    <item name="PrinterShare" drawable="icon774a2bd2" />
+
+
+    <item name="大话2口袋版" drawable="iconbd45c497" />
+
+
+    <item name="爱山东" drawable="icon06c70e75" />
+
+
+    <item name="藏宝阁" drawable="icon659a810c" />
+
+
+    <item name="DeepSeek" drawable="icon321bdb7a" />
+
+
+    <item name="Geekbench 6" drawable="icon65d33aa7" />
+
+
+    <item name="APatch" drawable="iconeb6611ff" />
+
+
+    <item name="隐藏应用列表" drawable="icon64c0db89" />
+
+
+    <item name="Ruru" drawable="icond69a7ed4" />
+
+
+    <item name="KonaBess" drawable="iconad5141fb" />
+
+
+    <item name="HookVip" drawable="iconae93b7af" />
+
+
+    <item name="PiliPala" drawable="icon2b76ba92" />
+
+
+    <item name="Poe" drawable="icon751d1bfe" />
+
+
+    <item name="Sound+" drawable="icon6966594e" />
+
+
+    <item name="Cuto壁纸" drawable="icone1753a0a" />
+
+
+    <item name="Disney+" drawable="icon82320050" />
+
+
+    <item name="斑马学车" drawable="iconc1c03771" />
+
+
+    <item name="日升月落" drawable="icon7b8fd438" />
+
+
+    <item name="禅定空间" drawable="icon277e315a" />
+
+
+    <item name="网飞猫" drawable="icon9bdd80ea" />
+
+
+    <item name="联合早报" drawable="icon411b054f" />
+
+
+    <item name="超级教练" drawable="icon391a7870" />
+
+
+    <item name="闪电藤" drawable="icone3320f22" />
+
+
+    <item name="驾校通" drawable="icon9dff3e1f" />
+
+
+    <item name="Beats" drawable="icon47c09eb3" />
+
+
+    <item name="动卡空间" drawable="iconf0419e69" />
+
+
+    <item name="奔图打印" drawable="icon3b6b246e" />
+
+
+    <item name="小象记账" drawable="icona60b9a1f" />
+
+
+    <item name="六只脚" drawable="icon7e37c978" />
+
+
+    <item name="同花顺期货通" drawable="icon0b1439b0" />
+
+
+    <item name="交易侠" drawable="icon97d4a63a" />
+
+
+    <item name="H3C魔术家" drawable="iconbc3fe036" />
+
+
+    <item name="智导互联" drawable="icone3ee1822" />
+
+
+    <item name="猫嗅群看板" drawable="iconba1695fa" />
+
+
+    <item name="今日张家港" drawable="iconda249927" />
+
+
+    <item name="交易法门" drawable="icon7b46e947" />
+
+
+    <item name="美职篮全明星" drawable="iconfb25b122" />
+
+
+    <item name="CONFIRMED" drawable="icon43c60a21" />
+
+
+    <item name="数字心动" drawable="icon260704de" />
+
+
+    <item name="麦德龙" drawable="iconce6c805a" />
+
+
+    <item name="Lightroom" drawable="icon49eee0f4" />
+
+
+    <item name="人人视频" drawable="icon4c60a163" />
+
+
+    <item name="文档" drawable="icondf071770" />
+
+
+    <item name="自如" drawable="icon749776b6" />
+
+
+    <item name="哈弗智家" drawable="icon1b19799a" />
+
+
+    <item name="极米" drawable="icon4a63bdd9" />
+
+
+    <item name="元梦之星" drawable="iconfaaaa14f" />
+
+
+    <item name="i茅台" drawable="icon8b436eff" />
+
+
+    <item name="暗区突围" drawable="icon615ab39b" />
+
+
+    <item name="公众号助手" drawable="icondfa855e5" />
+
+
+    <item name="狼人杀" drawable="icon96a3258b" />
+
+
+    <item name="Bluelink" drawable="icon1cfde359" />
+
+
+    <item name="百家号" drawable="iconfdb2b868" />
+
+
+    <item name="财联社" drawable="iconf3baa929" />
+
+
+    <item name="SNKRS" drawable="icon28717fbe" />
+
+
+    <item name="皖事通" drawable="icon6ac1e840" />
+
+
+    <item name="虎嗅" drawable="iconc4d2f994" />
+
+
+    <item name="高能英雄" drawable="icon153279d3" />
+
+
+    <item name="飞智游戏厅" drawable="iconecd012d1" />
+
+
+    <item name="e福州" drawable="icon3035e8fd" />
+
+
+    <item name="每日赛车" drawable="icon416872d2" />
+
+
+    <item name="大连地铁" drawable="iconfd95f8ea" />
+
+
+    <item name="星穹铁道" drawable="icon1ac6f78f" />
+
+
+    <item name="HP" drawable="icon9a8da147" />
+
+
+    <item name="True" drawable="icone658cf7b" />
+
+
+    <item name="Pass" drawable="icon8ede60b3" />
+
+
+    <item name="Skyscanner" drawable="icon04ed9cb2" />
+
+
+    <item name="Smart Switch" drawable="icon304e0185" />
+
+
+    <item name="SmartThings" drawable="icone2e1d82f" />
+
+
+    <item name="Google One" drawable="icon1f86c2a8" />
+
+
+    <item name="LinkedIn" drawable="iconfea7b9df" />
+
+
+    <item name="Meet" drawable="icon07c32516" />
+
+
+    <item name="Members" drawable="icon92c436cb" />
+
+
+    <item name="AirAsia MOVE" drawable="icon4a8af19a" />
+
+
+    <item name="Bolt" drawable="icon0db454ad" />
+
+
+    <item name="TrueMoney" drawable="icon6f7b61e2" />
+
+
+    <item name="Wonderland" drawable="icon9c829c61" />
+
+
+    <item name="小佩宠物" drawable="iconb3af1045" />
+
+
+    <item name="新氧医美" drawable="iconce48c5e8" />
+
+
+    <item name="乐刻运动" drawable="iconc04597c8" />
+
+
+    <item name="北京工会12351" drawable="icona6e56f2f" />
+
+
+    <item name="翻咔" drawable="icon872916b8" />
+
+
+    <item name="北京清华长庚医院" drawable="iconc257e4db" />
+
+
+    <item name="哈尔滨银行" drawable="iconacce86cb" />
+
+
+    <item name="知网" drawable="iconc90a26e6" />
+
+
+    <item name="蜜雪冰城" drawable="iconddde09f8" />
+
+
+    <item name="保卫萝卜4" drawable="icondaa1e6d1" />
+
+
+    <item name="华为地图" drawable="icon6fe28f17" />
+
+
+    <item name="Xbox" drawable="icondb9c5cef" />
+
+
+    <item name="Play Station" drawable="icon246b4206" />
+
+
+    <item name="笔趣阁" drawable="icon244f4e52" />
+
+
+    <item name="石头" drawable="icone85d34e3" />
+
+
+    <item name="厚墨阅读" drawable="icon156a5175" />
+
+
+    <item name="科沃斯" drawable="iconee4415a3" />
+
+
+    <item name="语雀" drawable="icon28618f2b" />
+
+
+    <item name="柳州银行" drawable="icon7163c69c" />
+
+
+    <item name="懒饭" drawable="icon9358299d" />
+
+
+    <item name="西米露" drawable="iconecd44ade" />
+
+
+    <item name="模块" drawable="iconc763fac5" />
+
+
+    <item name="小天才" drawable="icone9275611" />
+
+
+    <item name="社会保障卡" drawable="icon2c6e8b43" />
+
+
+    <item name="佣金宝" drawable="iconce191b3f" />
+
+
+    <item name="CMF" drawable="icon1d02edaf" />
+
+
+    <item name="乐道汽车" drawable="iconbc7cf647" />
+
+
+    <item name="宁波银行" drawable="iconbc937834" />
+
+
+    <item name="石油大亨" drawable="icon2190bdcd" />
+
+
+    <item name="月圆之夜" drawable="icon19d41acc" />
+
+
+    <item name="春秋航空" drawable="iconadecb7cc" />
+
+
+    <item name="Copilot" drawable="icond462e2a8" />
+
+
+    <item name="Adidas" drawable="iconbfc734d0" />
+
+
+    <item name="喜茶" drawable="icon8be18d26" />
+
+
+    <item name="郑好办" drawable="icon1daac435" />
+
+
+    <item name="Nike" drawable="icon4a5092f6" />
+
+
+    <item name="达美乐" drawable="iconc28946f4" />
+
+
+    <item name="上海人社" drawable="icon95c8bc5b" />
+
+
+    <item name="掼蛋" drawable="icon56bfff60" />
+
+
+    <item name="人力资源" drawable="icon1234f2ab" />
+
+
+    <item name="保密观" drawable="icon5023414f" />
+
+
+    <item name="汉堡王" drawable="icon23fff0a1" />
+
+
+    <item name="名爵" drawable="iconf1872ba6" />
+
+
+    <item name="抖音商城" drawable="icon0f9bc9cc" />
+
+
+    <item name="中国军号" drawable="iconc530f291" />
+
+
+    <item name="保卫萝卜3" drawable="icon5d96c67e" />
+
+
+    <item name="游民星空" drawable="icone28a62fc" />
+
+
+    <item name="森海塞尔" drawable="icona74e05f0" />
+
+
+    <item name="AR" drawable="icon08303c69" />
+
+
+    <item name="RDP" drawable="icon54110572" />
+
+
+    <item name="Team Viewer" drawable="iconc3d4cd17" />
+
+
+    <item name="丰巢" drawable="iconbc274eff" />
+
+
+    <item name="猫和老鼠" drawable="icon26568fc2" />
+
+
+    <item name="查找" drawable="iconcaf5ca5e" />
+
+
+    <item name="票友记" drawable="icon4a2548d3" />
+
+
+    <item name="亿通行" drawable="icon56641116" />
+
+
+    <item name="终极逆转" drawable="iconde4b75b1" />
+
+
+    <item name="抖店" drawable="iconb054ebed" />
+
+
+    <item name="成都农商银行" drawable="icon55316d10" />
+
+
+    <item name="甘肃银行" drawable="icon4b2cfeb2" />
+
+
+    <item name="光大银行" drawable="icone6e7aae4" />
+
+
+    <item name="兰州银行" drawable="icon9d58e214" />
+
+
+    <item name="江苏银行" drawable="icone8d0d12f" />
+
+
+    <item name="华融湘江银行" drawable="icone21cdb17" />
+
+
+    <item name="天津银行" drawable="icone71f8cef" />
+
+
+    <item name="桂林银行" drawable="icon6614d8ec" />
+
+
+    <item name="广州农商银行" drawable="icon6bfca7d1" />
+
+
+    <item name="湖南省农村信用社联合社" drawable="icon75e4b45b" />
+
+
+    <item name="江苏江阴农村商业银行" drawable="icon3d4a5a1f" />
+
+
+    <item name="恒丰银行" drawable="iconafa14863" />
+
+
+    <item name="西安银行" drawable="icon78e05eac" />
+
+
+    <item name="邮政储蓄信用卡" drawable="icon929a00c8" />
+
+
+    <item name="Meta" drawable="icon77dad677" />
+
+
+    <item name="雀魂" drawable="icon4893ca7b" />
+
+
+    <item name="今日头条极速版" drawable="icon44de45a6" />
+
+
+    <item name="你胖你先吃" drawable="icon62230933" />
+
+
+    <item name="夕颜" drawable="icon16bd7fed" />
+
+
+    <item name="70迈" drawable="icon691ca4f2" />
+
+
+    <item name="能链团油" drawable="icon9c69bb4e" />
+
+
+    <item name="少年三国志" drawable="icondbcf856b" />
+
+
+    <item name="星返" drawable="icon2657b8e4" />
+
+
+    <item name="徽行信用卡" drawable="icon80cc5199" />
+
+
+    <item name="跑步" drawable="icon32e843a1" />
+
+
+    <item name="DNF" drawable="icone680ad6d" />
+
+
+    <item name="别样" drawable="icon0820d2f7" />
+
+
+    <item name="车e兴" drawable="iconcfd2478e" />
+
+
+    <item name="双色球" drawable="icon90f1719e" />
+
+
+    <item name="暖雪" drawable="icon98133d58" />
+
+
+    <item name="KWGT" drawable="iconecfc0bb1" />
+
+
+    <item name="最美天气" drawable="icon37ed8ab2" />
+
+
+    <item name="爱发电" drawable="iconf794862c" />
+
+
+    <item name="随申办" drawable="icone0dd3f35" />
+
+
+    <item name="微软" drawable="icon6168befc" />
+
+
+    <item name="天府市民云" drawable="icon310b3bb3" />
+
+
+    <item name="第五人格" drawable="icon36a1c03d" />
+
+
+    <item name="逆水寒" drawable="icon8b8f8486" />
+
+
+    <item name="Google TV" drawable="iconf9562479" />
+
+
+    <item name="全知识" drawable="icon9518a660" />
+
+
+    <item name="Figma" drawable="icon1593f2fd" />
+
+
+    <item name="Google Home" drawable="icon91aa97ae" />
+
+
+    <item name="机核" drawable="icon828cd8c7" />
+
+
+    <item name="瓦" drawable="icon7cae0807" />
+
+
+    <item name="Noti Star" drawable="icon60451ef6" />
+
+
+    <item name="Nice Catch" drawable="icon97accd14" />
+
+
+    <item name="Aurora Store" drawable="icon6953575c" />
+
+
+    <item name="滴滴金融" drawable="icon158783db" />
+
+
+    <item name="有钱花" drawable="icon201b068d" />
+
+
+    <item name="希尔顿" drawable="icond2d133b2" />
+
+
+    <item name="Google 文件" drawable="iconf0acaa9f" />
+
+
+    <item name="环球度假村" drawable="icon223ddc87" />
+
+
+    <item name="酷乐潮玩" drawable="icon1ba4440b" />
+
+
+    <item name="奇富借条" drawable="icon96d61d09" />
+
+
+    <item name="Jack'D" drawable="icon6953d54d" />
+
+
+    <item name="Airpods" drawable="icon6678ca87" />
+
+
+    <item name="Backdrops" drawable="icon24302723" />
+
+
+    <item name="鱼泡直聘" drawable="icon863dc245" />
+
+
+    <item name="使命召唤" drawable="icon21615312" />
+
+
+    <item name="智能体商店" drawable="icon73812bbe" />
+
+
+    <item name="DJ多多" drawable="iconb78a53ac" />
+
+
+    <item name="小鲜木鱼" drawable="icond3735c65" />
+
+
+    <item name="光影" drawable="icon252204ca" />
+
+
+    <item name="汽水壁纸" drawable="iconb0a0a399" />
+
+
+    <item name="蛋仔派对" drawable="icon64e24066" />
+
+
+    <item name="Lipro" drawable="iconcd62f5c0" />
+
+
+    <item name="Tim" drawable="icon07123204" />
+
+
+    <item name="江南百景图" drawable="iconabbc0d9b" />
+
+
+    <item name="NIIMBOT" drawable="icone0c9e9d5" />
+
+
+    <item name="VLC" drawable="icon2ca0a003" />
+
+
+    <item name="天天爱消除" drawable="iconf62332be" />
+
+
+    <item name="温州银行" drawable="icon55b6b9f3" />
+
+
+    <item name="天翼生活" drawable="iconba472ce2" />
+
+
+    <item name="无锡博报" drawable="icon62f55a8a" />
+
+
+    <item name="码上行" drawable="icon69ae5da0" />
+
+
+    <item name="红果" drawable="icon9abd6d5f" />
+
+
+    <item name="爱其意" drawable="icon5b46936c" />
+
+
+    <item name="毒舌" drawable="icon274ef036" />
+
+
+    <item name="魅族微讯" drawable="icon0773f0cb" />
+
+
+    <item name="欧易" drawable="icon7ce37705" />
+
+
+    <item name="拍机堂" drawable="iconcbdb8ac6" />
+
+
+    <item name="小翼" drawable="iconfc167646" />
+
+
+    <item name="夜猫加速" drawable="iconba2c6d96" />
+
+
+    <item name="HAY" drawable="iconb2426ccc" />
+
+
+    <item name="MYVU" drawable="icon4090823c" />
+
+
+    <item name="wellcee" drawable="icon895eb626" />
+
+
+    <item name="山东通" drawable="iconce12813b" />
+
+
+    <item name="齐鲁银行" drawable="icon99cc335a" />
+
+
+    <item name="中国广电" drawable="icon575dee45" />
+
+
+    <item name="下载" drawable="iconcb34ce45" />
+
+
+    <item name="比亚迪海洋" drawable="icon5412a0fc" />
+
+
+    <item name="当贝" drawable="icon770a2a09" />
+
+
+    <item name="FIFA" drawable="icon6e2ec7c1" />
+
+
+    <item name="Google" drawable="icon0ed6e2bd" />
+
+
+    <item name="Google" drawable="icon73dc75c2" />
+
+
+    <item name="Google" drawable="iconcaa8f280" />
+
+
+    <item name="Go Pro" drawable="icon368ebb2f" />
+
+
+    <item name="京东快递" drawable="iconcc7b5efe" />
+
+
+    <item name="北京交警" drawable="iconc4b3c8ae" />
+
+
+    <item name="壁纸" drawable="iconac92c87e" />
+
+
+    <item name="Tiktok" drawable="icon75f787bb" />
+
+
+    <item name="知到" drawable="iconb01c542b" />
+
+
+    <item name="去水印" drawable="icon4bbfccdc" />
+
+
+    <item name="Android" drawable="icon266dbb06" />
+
+
+    <item name="木鱼" drawable="icon66c4fabc" />
+
+
+    <item name="PICC" drawable="icon3e258b4f" />
+
+
+    <item name="传祺汽车" drawable="icon32b77483" />
+
+
+    <item name="WeLink" drawable="iconfdb938a1" />
+
+
+    <item name="鸣潮" drawable="iconaee3188d" />
+
+
+    <item name="Microsoft Teams" drawable="icon357ac9e6" />
+
+
+    <item name="东方航空" drawable="icon2b718add" />
+
+
+    <item name="小米金融" drawable="icon99204c7f" />
+
+
+    <item name="七鲜" drawable="iconb2d18c6c" />
+
+
+    <item name="永劫无间" drawable="icon0151f38f" />
+
+
+    <item name="率土之滨" drawable="iconcb72478b" />
+
+
+    <item name="中信建投" drawable="icon139ff6ed" />
+
+
+    <item name="比亚迪王朝" drawable="icon3ae632df" />
+
+
+    <item name="看球" drawable="icon3b8eb7f8" />
+
+
+    <item name="新东方" drawable="iconc4d6c5ad" />
+
+
+    <item name="倍思" drawable="icon5a5c8eda" />
+
+
+    <item name="学浪" drawable="icon8b058432" />
+
+
+    <item name="长安" drawable="icona44ccb1e" />
+
+
+    <item name="长安" drawable="iconb4073c81" />
+
+
+    <item name="叨叨" drawable="icon6158e9c0" />
+
+
+    <item name="全民小说" drawable="icon1e6fe17c" />
+
+
+    <item name="APEX" drawable="icon3a40c50b" />
+
+
+    <item name="一嗨" drawable="icone5948d45" />
+
+
+    <item name="高途" drawable="icon27871d90" />
+
+
+    <item name="奇瑞汽车" drawable="iconb51c2e22" />
+
+
+    <item name="威尔士健身" drawable="iconbb59236d" />
+
+
+    <item name="无尽冬日" drawable="icon6ed7872a" />
+
+
+    <item name="GoodCatch" drawable="icon14ba2aec" />
+
+
+    <item name="爆裂小队" drawable="icon579e2eca" />
+
+
+    <item name="Uber" drawable="iconbf90500d" />
+
+
+    <item name="AOV" drawable="icon1d856e8c" />
+
+
+    <item name="贵州通" drawable="iconb133a29b" />
+
+
+    <item name="江西人社" drawable="iconebf1db44" />
+
+
+    <item name="51信用卡" drawable="icon54c803eb" />
+
+
+    <item name="Canva" drawable="icon8a003d4c" />
+
+
+    <item name="文墨天机" drawable="icon4aa16801" />
+
+
+    <item name="长沙" drawable="icona55eb47f" />
+
+
+    <item name="App Share" drawable="iconc38051a0" />
+
+
+    <item name="无悔华夏" drawable="icona09b5a59" />
+
+
+    <item name="街霸" drawable="iconbbda72eb" />
+
+
+    <item name="豫事办" drawable="icon87a3214f" />
+
+
+    <item name="Shadowrocket" drawable="icon8996ea4d" />
+
+
+    <item name="Google Keep" drawable="icon66d6ef80" />
+
+
+    <item name="她说" drawable="icon0e1c9ea4" />
+
+
+    <item name="Hushed" drawable="icon7246da6a" />
+
+
+    <item name="荣耀亲选" drawable="icon3f564a93" />
+
+
+    <item name="公主连结" drawable="iconcb1ff4b2" />
+
+
+    <item name="江苏农商行" drawable="iconb9432010" />
+
+
+    <item name="特价" drawable="icon6d3169a2" />
+
+
+    <item name="滴哔影视" drawable="iconae055e8d" />
+
+
+    <item name="闲鱼备用" drawable="iconb93e4ad5" />
+
+
+    <item name="Grok" drawable="icon2ed862b2" />
+
+
+    <item name="中国体育彩票" drawable="icon6154787f" />
+
+
+    <item name="长城汽车" drawable="iconbbfc0479" />
+
+
+    <item name="神州专车" drawable="icona4ea7d0f" />
+
+
+    <item name="红旗汽车" drawable="icon3c1457cd" />
+
+
+    <item name="小红书备用" drawable="icon1edab84f" />
+
+
+    <item name="渤海银行" drawable="iconc3b345d6" />
+
+
+    <item name="e钱庄" drawable="icone2977705" />
+
+
+    <item name="杭州银行" drawable="icon7420396f" />
+
+
+    <item name="Prime Video" drawable="icon0629f8c4" />
+
+
+    <item name="Jump" drawable="icon13937086" />
+
+
+    <item name="Microsoft Onenote" drawable="icon6124e855" />
+
+
+    <item name="Shazam" drawable="icon7a0d5464" />
+
+
+    <item name="Squad Busters" drawable="icond9cce777" />
+
+
+    <item name="中通快递" drawable="icond7eb5bc1" />
+
+
+    <item name="光明日报" drawable="icon2cc8c1de" />
+
+
+    <item name="照片扫描" drawable="icon0ec02d9c" />
+
+
+    <item name="CNN" drawable="icon5e1b031d" />
+
+
+    <item name="PassStore" drawable="icon12883767" />
+
+
+    <item name="绿联云" drawable="iconc0990960" />
+
+
+    <item name="Sing Box" drawable="iconfb5cc9c1" />
+
+
+    <item name="AdGuard VPN" drawable="icon8faec8f6" />
+
+
+    <item name="Fox News" drawable="iconeb613d9f" />
+
+
+    <item name="NYTimes" drawable="iconf8e173ce" />
+
+
+    <item name="One" drawable="iconaad2d9da" />
+
+
+    <item name="爱看智能" drawable="icon3ce31746" />
+
+
+    <item name="Bose" drawable="iconde7a34f7" />
+
+
+    <item name="Sephora" drawable="icon0d5bb394" />
+
+
+    <item name="Epson" drawable="icon61a5a561" />
+
+
+    <item name="学而思" drawable="icon375ad18c" />
+
+
+    <item name="即梦" drawable="icond7131872" />
+
+
+    <item name="JBL" drawable="icond45bb5fd" />
+
+
+    <item name="银河证券" drawable="icon946436f3" />
+
+
+    <item name="五菱汽车" drawable="icon198fbd8e" />
+
+
+    <item name="维基百科" drawable="icone0f81d63" />
+
+
+    <item name="多邻国" drawable="iconbac9a47e" />
+
+
+    <item name="欧陆背单词" drawable="icona8d4f422" />
+
+
+    <item name="捷安特骑行" drawable="iconda653058" />
+
+
+    <item name="可可英语" drawable="icon7196bec4" />
+
+
+    <item name="每日英语阅读" drawable="iconeb5f32bf" />
+
+
+    <item name="流利说阅读" drawable="icond8b257cd" />
+
+
+    <item name="薄荷阅读" drawable="icon315eb234" />
+
+
+    <item name="薄荷外刊" drawable="icon94a29696" />
+
+
+    <item name="腾讯会议" drawable="iconaa2a3ba1" />
+
+
+    <item name="环球网校" drawable="iconfcfb3000" />
+
+
+    <item name="沃尔玛" drawable="icon274a1162" />
+
+
+    <item name="Zombirds" drawable="icon070a7de6" />
+
+
+    <item name="Sky Force R." drawable="icon0f45f546" />
+
+
+    <item name="obsidian" drawable="icon98a94ddd" />
+
+
+    <item name="牛津词典" drawable="iconfbf0daeb" />
+
+
+    <item name="新概念" drawable="icon8920373c" />
+
+
+    <item name="iHour" drawable="icon6a5a4c20" />
+
+
+    <item name="CalcES" drawable="icon2d4bc9d3" />
+
+
+    <item name="IKEA" drawable="iconced1d4a0" />
+
+
+    <item name="宜家家居" drawable="icon2b506098" />
+
+
+    <item name="Journey" drawable="icond900429e" />
+
+
+    <item name="Zoom" drawable="icon5b3ea8d2" />
+
+
+    <item name="iMuseum" drawable="icon15311c27" />
+
+
+    <item name="华住会" drawable="iconed8cdac6" />
+
+
+    <item name="万豪" drawable="icone74bb749" />
+
+
+    <item name="233网校" drawable="icondfdee1f7" />
+
+
+    <item name="Ancient Empires Reloaded" drawable="icon2aa7f73e" />
+
+
+    <item name="bebird" drawable="icon81a7fd11" />
+
+
+    <item name="新华社" drawable="icon6f794417" />
+
+
+    <item name="招商证券" drawable="icon2bd569c5" />
+
+
+    <item name="无畏契约助手" drawable="icon0a18d62b" />
+
+
+    <item name="必胜客" drawable="icon1f90ce92" />
+
+
+    <item name="黑白直播" drawable="icon9dc9ef74" />
+
+
+    <item name="百视通" drawable="iconefaa99fe" />
+
+
+    <item name="四川观察" drawable="iconbe94c3c8" />
+
+
+    <item name="新周刊" drawable="icon42ff9be5" />
+
+
+    <item name="国家数字图书馆" drawable="icon847d0052" />
+
+
+    <item name="Google Fitness" drawable="icon472297ff" />
+
+
+    <item name="Google Mesaging" drawable="iconb7759eff" />
+
+
+    <item name="Theme Tool" drawable="iconf3ca0825" />
+
+
+    <item name="平安健康" drawable="icon66dc0be6" />
+
+
+    <item name="平安企业宝" drawable="icon825b4450" />
+
+
+    <item name="平安惠普" drawable="icon4aeb477a" />
+
+
+    <item name="平安好伙伴" drawable="iconb3147dc5" />
+
+
+    <item name="英语角" drawable="icone23e6bf1" />
+
+
+    <item name="多多买菜" drawable="iconfe1c2229" />
+
+
+    <item name="云南" drawable="icon34e6eb07" />
+
+
+    <item name="智学网" drawable="iconcba8bd7b" />
+
+
+    <item name="欣师网校" drawable="icon44f515ac" />
+
+
+    <item name="云岭先锋" drawable="icon0357bf47" />
+
+
+    <item name="云成绩" drawable="iconf712c34c" />
+
+
+    <item name="中国法律汇编" drawable="icon789ce71b" />
+
+
+    <item name="Wind" drawable="icon5662d7b6" />
+
+
+    <item name="南京证券" drawable="icon2d7145e5" />
+
+
+    <item name="奥维地图" drawable="icon74368676" />
+
+
+    <item name="王者国际版" drawable="icon1695db85" />
+
+
+    <item name="VR" drawable="iconb64c72a9" />
+
+
+    <item name="FIII" drawable="icon80d42412" />
+
+
+    <item name="北京大学" drawable="icon6d8fca07" />
+
+
+    <item name="收音机" drawable="iconff180de1" />
+
+
+    <item name="云盘" drawable="icona1f2249b" />
+
+
+    <item name="佳明 Connect IQ" drawable="iconf2d110bf" />
+
+
+    <item name="佳明 Connect" drawable="iconc5a56464" />
+
+
+    <item name="Apex Launcher" drawable="iconb7985f15" />
+
+
+    <item name="云听" drawable="icon3c47f9c1" />
+
+
+    <item name="上海交通卡" drawable="icon67b71aaf" />
+
+
+    <item name="蓝心小V" drawable="icon7e613f08" />
+
+
+    <item name="VIVO 摄影" drawable="iconce588738" />
+
+
+    <item name="天龙八部二" drawable="icona057db68" />
+
+
+    <item name="vivo 耳机" drawable="icon36985f2a" />
+
+
+    <item name="vivo 官网" drawable="iconaa173f75" />
+
+
+    <item name="群晖管家" drawable="iconaf83da97" />
+
+
+    <item name="Synology Photos" drawable="icona30399c2" />
+
+
+    <item name="施德曼" drawable="icon3d129f9c" />
+
+
+    <item name="埋堆堆" drawable="iconf2730bb7" />
+
+
+    <item name="货拉拉" drawable="iconcb800576" />
+
+
+    <item name="仙剑" drawable="iconb8287749" />
+
+
+    <item name="Proton VPN" drawable="icon0d79f53b" />
+
+
+    <item name="DS Get" drawable="icon03585f60" />
+
+
+    <item name="Image App" drawable="icon5558651c" />
+
+
+    <item name="终端" drawable="icon32998e21" />
+
+
+    <item name="格力+" drawable="icon40b2e048" />
+
+
+    <item name="星星充电" drawable="icon03f0c178" />
+
+
+    <item name="E照通" drawable="iconc830e43d" />
+
+
+    <item name="浙里办" drawable="icond9e9e4a6" />
+
+
+    <item name="西安市民卡" drawable="iconb9ecf023" />
+
+
+    <item name="住这儿" drawable="icona28369ba" />
+
+
+    <item name="纵横阅读" drawable="icon36edc976" />
+
+
+    <item name="瑞云" drawable="iconf33e5d2a" />
+
+
+    <item name="深圳通" drawable="icon4ac31161" />
+
+
+    <item name="智己汽车" drawable="iconf165a0cb" />
+
+
+    <item name="米画师" drawable="icon4978fbde" />
+
+
+    <item name="Niagara" drawable="icon5a554901" />
+
+
+    <item name="坚果控" drawable="icon2a26ead3" />
+
+
+    <item name="eCASC" drawable="icon49a541b8" />
+
+
+    <item name="CALT" drawable="icona5499fa6" />
+
+
+    <item name="火箭人" drawable="icona12e67dc" />
+
+
+    <item name="翎信" drawable="icone344e638" />
+
+
+    <item name="航天一院党建云" drawable="icon0f6c4461" />
+
+
+    <item name="航天网络学院" drawable="icon65a5dd92" />
+
+
+    <item name="好好看" drawable="icon8d79000a" />
+
+
+    <item name="e万源" drawable="iconc55e2bb5" />
+
+
+    <item name="e充电" drawable="icon91f780df" />
+
+
+    <item name="优易充" drawable="icon237e1511" />
+
+
+    <item name="云加" drawable="icon21f45748" />
+
+
+    <item name="DREAME" drawable="icon81972b33" />
+
+
+    <item name="北京交通APP" drawable="icon6a69f69a" />
+
+
+    <item name="三星未成年人模式" drawable="icon62495d4e" />
+
+
+    <item name="抖音AI" drawable="icon0844a1d6" />
+
+
+    <item name="Meta" drawable="icon47828158" />
+
+
+    <item name="顺丰同城" drawable="icon6db6fe02" />
+
+
+    <item name="Canon" drawable="icon3d93d762" />
+
+
+    <item name="Sony" drawable="icona5029340" />
+
+
+    <item name="方正证券" drawable="icond9600bda" />
+
+
+    <item name="FUJIFILM" drawable="icon2f23bf41" />
+
+
+    <item name="极品飞车" drawable="icond104abff" />
+
+
+    <item name="四川航空" drawable="icond95f2513" />
+
+
+    <item name="中国国航" drawable="icon6a84897e" />
+
+
+    <item name="海南航空" drawable="icon7693fc19" />
+
+
+    <item name="吉祥航空" drawable="icon81356c49" />
+
+
+    <item name="深圳航空" drawable="icon632412b3" />
+
+
+    <item name="厦门航空" drawable="icon7c412cf9" />
+
+
+    <item name="GKD" drawable="icon552057d0" />
+
+
+    <item name="Nikon" drawable="icond27f8463" />
+
+
+    <item name="企查查" drawable="icon0d017a58" />
+
+
+    <item name="数字身份" drawable="iconb61d253f" />
+
+
+    <item name="Pixel" drawable="icone1b7b0ae" />
+
+
+    <item name="360摄像机" drawable="icon5ea9b60f" />
+
+
+    <item name="SHOKZ" drawable="icon01940d89" />
+
+
+    <item name="B&amp;W" drawable="icone9519468" />
+
+
+    <item name="迪士尼度假区" drawable="icon7ec7e154" />
+
+
+    <item name="小布记忆" drawable="icon6ae0841f" />
+
+
+    <item name="Seetong" drawable="icone2793fd7" />
+
+
+    <item name="小布助手备用" drawable="icon249247e6" />
+
+
+    <item name="秒送骑士" drawable="icon2d352521" />
+
+
+    <item name="秒送" drawable="iconcdb55012" />
+
+
+    <item name="屈臣氏" drawable="icone2cc86e0" />
+
+
+    <item name="票牛" drawable="icon5c94717c" />
+
+
+    <item name="哈苏" drawable="icon5ec1df1c" />
+
+
+    <item name="中免" drawable="icon9649e63a" />
+
+
+    <item name="京东养车" drawable="icon7d90c980" />
+
+
+    <item name="李宁" drawable="iconf34ed9cc" />
+
+
+    <item name="Lumix" drawable="icone5056baa" />
+
+
+    <item name="Coros" drawable="iconbe7ff416" />
+
+
+    <item name="Canon" drawable="icon9f230095" />
+
+
+    <item name="Nothing Pods" drawable="icon8efe5fa5" />
+
+
+    <item name="PICO" drawable="iconbf819b26" />
+
+
+    <item name="中兴路由器" drawable="icone621f589" />
+
+
+    <item name="Tenda" drawable="icond5472f22" />
+
+
+    <item name="hulu" drawable="icon5d54a523" />
+
+
+    <item name="sonos" drawable="icon27694cf5" />
+
+
+    <item name="Polaroid" drawable="icon7ee8d866" />
+
+
+    <item name="hiigge" drawable="icon58186721" />
+
+
+    <item name="Bixby" drawable="iconc8da8f47" />
+
+
+    <item name="申通快递" drawable="icon959274f7" />
+
+
+    <item name="重返未来" drawable="icon271f47af" />
+
+
+    <item name="蜂鸟" drawable="icon79a47983" />
+
+
+    <item name="心悦俱乐部" drawable="icond649220f" />
+
+
+    <item name="德克士" drawable="iconfb28cf80" />
+
+
+    <item name="米家打印机" drawable="iconde85c130" />
+
+
+    <item name="奥迪" drawable="iconfffdfc40" />
+
+
+    <item name="DJI MIMO" drawable="iconba807811" />
+
+
+    <item name="Home assistant" drawable="icon48938b82" />
+
+
+    <item name="homerun" drawable="icon8f195697" />
+
+
+    <item name="EZVIZ" drawable="icon8419a103" />
+
+
+    <item name="逆战" drawable="icond875e355" />
+
+
+    <item name="TERRAMSTER" drawable="iconbda128e8" />
+
+
+    <item name="飞牛" drawable="icon7c72aa28" />
+
+
+    <item name="风鸟" drawable="icon1b970f15" />
 </resources>

@@ -13,7 +13,7 @@
     True means yes
     False means no
     -->
-    <bool name="notifications_enabled_by_default">true</bool>
+    <bool name="notifications_enabled_by_default">false</bool>
 
     <!--
     Do you want animations to be enabled for all your users?

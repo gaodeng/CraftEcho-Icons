@@ -1,3 +1,25 @@
+ByteMyth Icon
+=============
+
+Android icon pack built from the Blueprint `sample` template. Its icon artwork,
+launcher component mappings, and icon list were extracted from the supplied
+`SmartisanOSxy (1).apk`.
+
+Build with JDK 17 and Android SDK Platform 36:
+
+```bash
+./gradlew assembleDebug
+```
+
+The debug APK is written to `app/build/outputs/apk/debug/` and uses application
+ID `com.bytemyth.iconpack`. Before publishing, replace the placeholder contact
+email in `app/src/main/res/values/blueprint_setup.xml`, configure release
+signing, and confirm that you have redistribution rights for the extracted
+artwork.
+
+Blueprint template documentation
+--------------------------------
+
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
 
 Blueprint
