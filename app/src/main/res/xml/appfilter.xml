@@ -337,34 +337,34 @@
     <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.Splash}" drawable="iconb75dd017" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="icon70d5903a" />
 
     <!--Google 拨号-->
-    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.android.contacts/com.android.dialer.TwelveKeyDialer}" drawable="icon70d5903a_v2" />
+    <item component="ComponentInfo{com.android.contacts/com.android.dialer.TwelveKeyDialer}" drawable="icon70d5903a" />
 
     <!--菜鸟-->
     <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="icona42e3c53" />
@@ -1775,7 +1775,7 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon9c1ac6f1" />
 
     <!--Gmail-->
-    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon45de312d_v5" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon45de312d" />
 
     <!--Zoho Mail-->
     <item component="ComponentInfo{com.zoho.mail/com.zoho.mail.android.activities.Login}" drawable="icon_zoho_mail_v3" />
