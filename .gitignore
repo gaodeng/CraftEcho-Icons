@@ -23,6 +23,10 @@ bin/
 *.swp
 *~.nib
 local.properties
+keystore.properties
+signing/
+*.jks
+*.keystore
 .settings/
 .loadpath
 
