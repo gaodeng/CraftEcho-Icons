@@ -2,15 +2,17 @@
 
 > 匠心留下的回响。
 
-<p align="center">
-  <img src="art/craftecho-preview.jpeg" alt="CraftEcho Icons 主屏幕预览" width="360" />
-</p>
-
 CraftEcho Icons 是一套面向 Android 启动器的非官方图标包，整理并适配了
 Smartisan OS 经典的拟物图标设计。项目希望让这些细腻、有温度的数字器物在新设备上继续被使用和看见。
 
 CraftEcho Icons is an unofficial Android icon pack preserving and adapting the
 skeuomorphic icon language associated with Smartisan OS.
+
+## 预览 / Preview
+
+<p align="center">
+  <img src="art/craftecho-preview.jpeg" alt="CraftEcho Icons 主屏幕预览" width="360" />
+</p>
 
 ## 项目状态
 
