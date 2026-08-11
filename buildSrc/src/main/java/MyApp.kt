@@ -1,7 +1,7 @@
 @file:Suppress("unused")
 
 object MyApp {
-    const val appId = "com.bytemyth.iconpack"
-    const val version = 14
-    const val versionName = "1.0.13"
+    const val appId = "com.bytemyth.craftecho.icons"
+    const val version = 1
+    const val versionName = "1.0.0"
 }

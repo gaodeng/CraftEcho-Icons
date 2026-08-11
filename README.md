@@ -1,214 +1,52 @@
-ByteMyth Icon
-=============
+# CraftEcho Icons
 
-Android icon pack built from the Blueprint `sample` template. Its icon artwork,
-launcher component mappings, and icon list were extracted from the supplied
-`SmartisanOSxy (1).apk`.
+> 匠心留下的回响。
 
-Build with JDK 17 and Android SDK Platform 36:
+CraftEcho Icons 是一套面向 Android 启动器的非官方图标包，整理并适配了
+Smartisan OS 经典的拟物图标设计。项目希望让这些细腻、有温度的数字器物在新设备上继续被使用和看见。
+
+CraftEcho Icons is an unofficial Android icon pack preserving and adapting the
+skeuomorphic icon language associated with Smartisan OS.
+
+## 项目状态
+
+- 收录约 1,900 个 drawable 资源
+- 包含常见 Android 应用的 launcher component 映射
+- 基于 [Blueprint](https://github.com/jahirfiquitiva/Blueprint) 图标包框架
+- 最低支持 Android 5.0（API 21）
+
+项目仍处于整理阶段。部分图标的名称、应用映射和视觉一致性尚待校对。
+
+## 构建
+
+准备 JDK 17 和 Android SDK Platform 36，然后运行：
 
 ```bash
 ./gradlew assembleDebug
 ```
 
-The debug APK is written to `app/build/outputs/apk/debug/` and uses application
-ID `com.bytemyth.iconpack`. Before publishing, replace the placeholder contact
-email in `app/src/main/res/values/blueprint_setup.xml`, configure release
-signing, and confirm that you have redistribution rights for the extracted
-artwork.
+生成的 APK 位于：
 
-Blueprint template documentation
---------------------------------
-
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
-
-Blueprint
-======
-
-![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
-[![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Blueprint?label=Blueprint&sort=semver)](https://github.com/jahirfiquitiva/Blueprint/releases/latest)
-[![Build Status](https://github.com/jahirfiquitiva/Blueprint/actions/workflows/build.yml/badge.svg?branch=sample)](https://github.com/jahirfiquitiva/Blueprint/actions/workflows/build.yml)
-[![Crowdin](https://badges.crowdin.net/blueprint/localized.svg)](https://crowdin.com/project/blueprint/invite)
-[![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/jahirfiquitiva)
-
-Free, feature-rich, easily customizable Android dashboard for icon packs
-
-<a target="_blank" href="http://bit.ly/DLBlueprintAPK">
-<img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
-</a>
-
-<a target="_blank" href="https://jahir.dev/donate/">
-<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
-
-
-## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Blueprint.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Blueprint/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Blueprint.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Blueprint)
-
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
-
----
-
-# Previews
-
-### Home / Icons / Apply / Requests
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/2.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/4.png?maxAge=0" height="350"/>
-</p>
-
-### Wallpapers support (Based on [Frames](https://github.com/jahirfiquitiva/Frames)) / Templates support (Based on [Kuper](https://github.com/Kuper))
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/4.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/5.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/6.png?maxAge=0" height="350"/>
-</p>
-
-### Help / Credits / Settings / Navigation Drawer
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/9.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/10.png?maxAge=0" height="350"/>
-</p>
-
----
-
-# Features:
-- Material Design dashboard.
-- License Checker.
-- Donations.
-- OneSignal notifications ready.
-- Support for adaptive icon packs (Additional improvements coming soon!)
-- In-app icon request tool
-- Support for [Pacific Manager](https://pacificmanager.app/)
-- Apply section with 20 supported launchers. (Other launchers might not support direct apply)
-- Help section, to answer the questions your users have.
-- Support for Zooper templates, Kustom Wallpapers, Widgets, Lockscreens and Komponents.
-- Cloud based (only) wallpapers.
-- App can work offline.
-- Wallpapers can be applied and downloaded.
-- Wallpapers include a full-screen viewer with zooming capabilities and detailed info viewer.
-- Credits section.
-- Settings section with these options:
-	- Option to change app theme (Light, Dark, System, AMOLED).
-	- Option to color navigation bar (Lollipop+).
-	- Option to clear app cache.
-- Tablet layouts.
-- Lots of customizations.
-- Works with Android 5.0 and newer.
-
-## Help translating
-:page_facing_up: Help making Blueprint available in more languages. [Click here to go to the translation site](https://crowdin.com/project/Blueprint/invite)
-
-## Changelog
-:radio_button: You can find it in the [Releases page](https://github.com/jahirfiquitiva/Blueprint/releases)
-
----
-
-<a target="_blank" href="https://pacificmanager.app">
-<img src="https://pacificmanager.app/content/promo-banner-smaller.png" width="400"/>
-</a>
-
-<a href="https://pacificmanager.app" target="_blank">Pacific Manager</a> takes care of all your icon requests. Quit using the old traditional method of receiving emails from your users, making you sort through hundreds of potentially duplicate requests a day. </i>
-
-<b>Use the code `blueprint` at checkout to get 2 weeks of Pacific Manager for free.</b>
-
----
-
-# Including in your project
-Blueprint is available via Maven, so getting it as simple as adding it as a dependency, like this:
-
-1. Add `MavenCentral` and `Jitpack` to your root `build.gradle` file
-```gradle
-allprojects {
-    repositories {
-        mavenCentral()
-        maven { url 'https://jitpack.io' }
-    }
-}
+```text
+app/build/outputs/apk/debug/com.bytemyth.craftecho.icons-1.0.0-debug.apk
 ```
-2. Add the dependency in your project `build.gradle` file
-```gradle
-dependencies {
-    implementation('dev.jahir:Blueprint:{latest version}@aar') {
-        transitive = true
-    }
-}
-```
-where `{latest version}` corresponds to published version in   [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Blueprint?label=Blueprint&sort=semver)](https://github.com/jahirfiquitiva/Blueprint/releases/latest)
 
-## How to implement
-:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Blueprint/wiki/)**
+正式发布前，请配置 release signing，并检查
+`app/src/main/res/values/blueprint_setup.xml` 中的联系邮箱。
 
-## Still need help :question:
-Just join our Discord Server and make a post. We'll help you as soon as possible. [![Join chat on Discord](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/78h7xgj)
+## 参与贡献
 
-### Check out [some cool apps](https://jahir.dev/blog/post-of-fame) built using this dashboard
+欢迎修正应用映射、图标名称和工程问题。提交前请阅读
+[CONTRIBUTING.md](CONTRIBUTING.md)。新增或替换图标时，请确保你有权提交和分发相关素材。
 
----
+## 名称与版权
 
-# Developed by
+CraftEcho Icons 是独立的非官方项目，与锤子科技、Smartisan 或相关权利人没有隶属、赞助或背书关系。
+“Smartisan”及相关名称和标识属于各自权利人。
 
-### [Jahir Fiquitiva](https://jahir.dev/)
+本仓库中的应用代码基于 Blueprint，其许可条款见 [LICENSE.md](LICENSE.md)。图标素材及第三方商标不因代码公开而自动获得相同许可；详情请阅读 [ASSET_RIGHTS.md](ASSET_RIGHTS.md)。
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+## 致谢
 
-If you found this app/library helpful and want to thank me, you can:
-
-<a target="_blank" href="https://jahir.dev/donate/">
-<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
-
-**Thanks in advance!** :pray:
-
-## Special thanks 🙌
-
-- [Eduardo Pratti](https://pratti.design/) 🎨
-- [Sherry Sabatine](https://www.photography-by-sherry.com/) 💵
-- [Allan Wang](https://www.allanwang.ca/) 💻
-- [James Fenn](https://theandroidmaster.github.io/) 🔌
-- [Maximilian Keppeler](https://twitter.com/maxKeppeler) 🔌
-- [Sasi Kanth](https://twitter.com/its_sasikanth) 🔌
-- [Alexandre Piveteau](https://github.com/alexandrepiveteau) 💻
-- [Lukas Koller](https://github.com/kollerlukas) 🔌
-- [Patryk Goworowski](https://twitter.com/pgoworowski) 🎨
-- [Lumiq Creative](https://lumiqcreative.com/) 🎨
-- [Jackson Hayes](https://jacksonhayes.xyz/) 📖
-- [Kevin Aguilar](https://twitter.com/kevttob) 🎨
-- [Anthony Nguyen](https://twitter.com/link6155) 🎨
-
----
-
-# License
-
-This app is shared under the CreativeCommons Attribution-ShareAlike license.
-
-	Copyright © 2020 Jahir Fiquitiva
-
-	Licensed under the CreativeCommons Attribution-ShareAlike 
-	4.0 International License. You may not use this file except in compliance 
-	with the License. You may obtain a copy of the License at
-
-	   http://creativecommons.org/licenses/by-sa/4.0/legalcode
-
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.
-
-## Library source
-
-As you may know, the [library source](https://github.com/jahirfiquitiva/Blueprint/tree/master) is open-source. This means that you can fork it and do your own modifications, but it has some conditions:
-
-When using the [library source](https://github.com/jahirfiquitiva/Blueprint/tree/master), anything from it: errors, crashes, issues, etc. including successful builds, must be done completely by yourself and under your own risk and responsibility. I **will not** provide any help/support when using the [library source](https://github.com/jahirfiquitiva/Blueprint/tree/master).
-
-Finally, be sure your projects comply with the [license previously mentioned](https://github.com/jahirfiquitiva/Blueprint#license). Otherwise I will be taking the required legal actions. I hope you understand.
+- Smartisan OS 的设计师们，感谢他们创造了这套令人难忘的视觉语言
+- [Jahir Fiquitiva](https://github.com/jahirfiquitiva) 与 Blueprint 项目贡献者

@@ -51,8 +51,8 @@
     <string name="email">bytemyth.iconpack@gmail.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">ByteMyth Icon</string>
-    <string name="request_title">ByteMyth Icon Request</string>
+    <string name="email_subject">CraftEcho Icons</string>
+    <string name="request_title">CraftEcho Icons Request</string>
 
     <!--
     1. Set the max amount of apps to request.
