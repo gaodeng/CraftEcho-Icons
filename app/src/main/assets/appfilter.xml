@@ -337,31 +337,34 @@
     <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.Splash}" drawable="iconb75dd017" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="icon70d5903a_v2" />
+
+    <!--Google 拨号-->
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icon70d5903a_v2" />
 
     <!--拨号-->
-    <item component="ComponentInfo{com.android.contacts/com.android.dialer.TwelveKeyDialer}" drawable="icon70d5903a" />
+    <item component="ComponentInfo{com.android.contacts/com.android.dialer.TwelveKeyDialer}" drawable="icon70d5903a_v2" />
 
     <!--菜鸟-->
     <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="icona42e3c53" />
@@ -1339,7 +1342,7 @@
     <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="iconee080e5d" />
 
     <!--Play 商店-->
-    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="icon5a75170a" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="icon5a75170a_redrawn_v2" />
 
     <!--QQ浏览器-->
     <item component="ComponentInfo{com.tencent.mtt/com.tencent.mtt.SplashActivity}" drawable="icon07a22fd2" />
@@ -1364,6 +1367,7 @@
 
     <!--Twitter-->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="iconb023f380" />
+    <item component="ComponentInfo{com.twitter.android/com.x.android.main.MainActivity}" drawable="iconb023f380" />
 
     <!--Telegram-->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="icon52193d57" />
@@ -1771,7 +1775,10 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon9c1ac6f1" />
 
     <!--Gmail-->
-    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon45de312d" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon45de312d_v5" />
+
+    <!--Zoho Mail-->
+    <item component="ComponentInfo{com.zoho.mail/com.zoho.mail.android.activities.Login}" drawable="icon_zoho_mail_v3" />
 
     <!--QQ邮箱-->
     <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}" drawable="icona2f0d68e" />
@@ -5896,49 +5903,49 @@
     <item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="iconf12ac0f3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.setup.GuideActivity}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.setup.GuideActivity}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.android.email/com.android.email.login.activity.WelcomeActivity}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.android.email/com.android.email.login.activity.WelcomeActivity}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{cn.nubia.email/com.android.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{cn.nubia.email/com.android.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.lenovo.email/com.kingsoft.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.lenovo.email/com.kingsoft.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.motorola.email/com.android.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.motorola.email/com.android.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.netease.mobimail.oneplus/com.netease.mobimail.activity.LaunchActivity}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.netease.mobimail.oneplus/com.netease.mobimail.activity.LaunchActivity}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--邮件-->
-    <item component="ComponentInfo{com.zui.email/com.kingsoft.email.activity.Welcome}" drawable="iconde7b2c75" />
+    <item component="ComponentInfo{com.zui.email/com.kingsoft.email.activity.Welcome}" drawable="iconde7b2c75_v3" />
 
     <!--叨鱼-->
     <item component="ComponentInfo{com.sdo.sdaccountkey/com.sdo.sdaccountkey.ui.welcome.WelcomeActivity}" drawable="icon6b53bf39" />
@@ -6940,7 +6947,7 @@
     <item component="ComponentInfo{com.ludashi.benchmark/com.ludashi.benchmark.SplashActivity}" drawable="icon679184b9" />
 
     <!--汽水音乐-->
-    <item component="ComponentInfo{com.luna.music/com.luna.biz.main.main.MainActivity}" drawable="icon1f00abcc" />
+    <item component="ComponentInfo{com.luna.music/com.luna.biz.main.main.MainActivity}" drawable="icon1f00abcc_v4" />
 
     <!--小米汽车-->
     <item component="ComponentInfo{com.mi.car.mobile/com.mi.car.mobile.LauncherActivity}" drawable="icone761f4ca" />

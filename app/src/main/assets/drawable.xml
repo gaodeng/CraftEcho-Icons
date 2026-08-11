@@ -56,7 +56,7 @@
     <item name="锤子便签" drawable="iconb75dd017" />
 
 
-    <item name="拨号" drawable="icon70d5903a" />
+    <item name="拨号" drawable="icon70d5903a_v2" />
 
 
     <item name="菜鸟" drawable="icona42e3c53" />
@@ -299,7 +299,7 @@
     <item name="QQ" drawable="iconee080e5d" />
 
 
-    <item name="Play 商店" drawable="icon5a75170a" />
+    <item name="Play 商店" drawable="icon5a75170a_redrawn_v2" />
 
 
     <item name="QQ浏览器" drawable="icon07a22fd2" />
@@ -500,7 +500,9 @@
     <item name="YouTube" drawable="icon9c1ac6f1" />
 
 
-    <item name="Gmail" drawable="icon45de312d" />
+    <item name="Gmail" drawable="icon45de312d_v5" />
+
+    <item name="Zoho Mail" drawable="icon_zoho_mail_v3" />
 
 
     <item name="QQ邮箱" drawable="icona2f0d68e" />
@@ -3134,7 +3136,7 @@
     <item name="海贝音乐" drawable="iconf12ac0f3" />
 
 
-    <item name="邮件" drawable="iconde7b2c75" />
+    <item name="邮件" drawable="iconde7b2c75_v3" />
 
 
     <item name="叨鱼" drawable="icon6b53bf39" />
@@ -3944,7 +3946,7 @@
     <item name="鲁大师" drawable="icon679184b9" />
 
 
-    <item name="汽水音乐" drawable="icon1f00abcc" />
+    <item name="汽水音乐" drawable="icon1f00abcc_v4" />
 
 
     <item name="小米汽车" drawable="icone761f4ca" />
