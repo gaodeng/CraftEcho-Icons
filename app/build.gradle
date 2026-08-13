@@ -56,13 +56,21 @@ android {
         buildTypes.each {
             it.buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
         }
+        debug {
+            // Use the same signing key as release so debug builds share the
+            // release signature and can be installed over it.
+            if (keystorePropertiesFile.exists()) {
+                signingConfig signingConfigs.release
+            }
+        }
         release {
             if (keystorePropertiesFile.exists()) {
                 signingConfig signingConfigs.release
             }
             debuggable false
             zipAlignEnabled true
-            minifyEnabled true
+            // Open-source project: no need to obfuscate/minify the code.
+            minifyEnabled false
             shrinkResources false
             proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
             consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

@@ -1,8 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Permission required for donations. Remove it if you don't use it -->
-    <uses-permission android:name="com.android.vending.BILLING" />
+    <!-- Donations/billing are disabled, so this permission is no longer needed. -->
+    <uses-permission
+        android:name="com.android.vending.BILLING"
+        tools:node="remove" />
+    <!-- License check is disabled: drop the permission merged from the Frames library. -->
+    <uses-permission
+        android:name="com.android.vending.CHECK_LICENSE"
+        tools:node="remove" />
 
     <application
         android:name=".MyApplication"

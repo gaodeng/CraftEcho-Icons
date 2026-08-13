@@ -14,29 +14,16 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * These things here have the default values. You can delete the ones you don't want to change
      * and/or modify the ones you want to.
      */
-    override val billingEnabled = true
+    // No in-app purchases are configured, so billing is disabled.
+    override val billingEnabled = false
 
-    override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = true
-    override fun checkStores(): Boolean = true
     override val isDebug: Boolean = BuildConfig.DEBUG
 
-    /**
-     * This is your app's license key. Get yours on Google Play Dev Console.
-     * Default one isn't valid and could cause issues in your app.
-     */
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+    // Required by the library, but unused since the license check is disabled.
+    override fun getLicKey(): String? = null
 
-    /**
-     * This is the license checker code. Feel free to create your own implementation or
-     * leave it as it is.
-     * Anyways, keep the 'destroyChecker()' as the very first line of this code block
-     * Return null to disable license check
-     */
-    override fun getLicenseChecker(): PiracyChecker? {
-        destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
-    }
+    // License check disabled: returning null skips all piracy/licensing checks.
+    override fun getLicenseChecker(): PiracyChecker? = null
 
     override fun defaultTheme(): Int = R.style.MyApp_Default
     override fun amoledTheme(): Int = R.style.MyApp_Default_Amoled
