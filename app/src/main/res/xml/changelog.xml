@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.4" />
+    <item text="Removed license and piracy checks" />
+    <item text="Disabled in-app billing" />
+    <item text="Debug builds now use the release signing key" />
+    <item text="Disabled code obfuscation in release builds" />
     <version title="v1.0.0" />
     <item text="Initial Changelog" />
     <item text="Bullet point here" />
