@@ -1427,7 +1427,7 @@
     <item component="ComponentInfo{com.csd.newyunketang/com.csd.newyunketang.view.user.login.activity.SplashActivity}" drawable="iconfb1b78f2" />
 
     <!--高德地图-->
-    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="icon1cadbb73" />
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="icon_amap" />
 
     <!--谷歌相机-->
     <item component="ComponentInfo{org.codeaurora.qcamera3/com.android.camera.CameraLauncher}" drawable="icona886f94b" />
