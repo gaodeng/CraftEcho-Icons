@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.7" />
+    <item text="Refined Play Store icon" />
     <version title="v1.0.6" />
     <item text="Updated Play Store icon" />
     <version title="v1.0.5" />
