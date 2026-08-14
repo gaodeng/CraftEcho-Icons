@@ -1775,7 +1775,7 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon9c1ac6f1" />
 
     <!--Gmail-->
-    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon_zoho_mail_v3" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon_gmail" />
 
     <!--Zoho Mail-->
     <item component="ComponentInfo{com.zoho.mail/com.zoho.mail.android.activities.Login}" drawable="icon_zoho_mail_v3" />

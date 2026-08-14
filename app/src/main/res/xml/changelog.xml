@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.5" />
+    <item text="Updated Gmail icon" />
     <version title="v1.0.4" />
     <item text="Removed license and piracy checks" />
     <item text="Disabled in-app billing" />
