@@ -1342,7 +1342,7 @@
     <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="iconee080e5d" />
 
     <!--Play 商店-->
-    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="icon5a75170a_redrawn_v2" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="icon_google_play" />
 
     <!--QQ浏览器-->
     <item component="ComponentInfo{com.tencent.mtt/com.tencent.mtt.SplashActivity}" drawable="icon07a22fd2" />
