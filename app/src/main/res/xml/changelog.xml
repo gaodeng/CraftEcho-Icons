@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.8" />
+    <item text="Updated Play Store, Amap, and Didi icons" />
     <version title="v1.0.7" />
     <item text="Refined Play Store icon" />
     <version title="v1.0.6" />
