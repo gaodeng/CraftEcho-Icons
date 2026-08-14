@@ -1733,16 +1733,16 @@
     <item component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.androlua.Welcome}" drawable="icon6e7afd1a" />
 
     <!--滴滴出行-->
-    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}" drawable="icon8e3e21af" />
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}" drawable="icon_didi" />
 
     <!--滴滴出行-->
-    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="icon8e3e21af" />
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="icon_didi" />
 
     <!--滴滴出行-->
-    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.LauncherActivity}" drawable="icon8e3e21af" />
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.LauncherActivity}" drawable="icon_didi" />
 
     <!--滴滴出行-->
-    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.DidiLoadDexActivity}" drawable="icon8e3e21af" />
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.DidiLoadDexActivity}" drawable="icon_didi" />
 
     <!--Google-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="icon537f2928" />
