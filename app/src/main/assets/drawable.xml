@@ -404,7 +404,7 @@
     <item name="中国移动" drawable="iconae4a5419" />
 
 
-    <item name="Chrome" drawable="icone109fc45" />
+    <item name="Chrome" drawable="icon_chrome" />
 
 
     <item name="Clash" drawable="icon72dd86df" />
@@ -3962,6 +3962,8 @@
 
 
     <item name="网易大神" drawable="icon92829124" />
+
+    <item name="网易爆米花" drawable="icon_popcorn" />
 
 
     <item name="美团优选" drawable="icon3af559dd" />

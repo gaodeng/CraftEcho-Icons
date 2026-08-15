@@ -1598,7 +1598,7 @@
     <item component="ComponentInfo{com.bmcc.ms.ui/com.mc10086.cmcc.base.StartPageActivity}" drawable="iconae4a5419" />
 
     <!--Chrome-->
-    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="icone109fc45" />
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="icon_chrome" />
 
     <!--Clash-->
     <item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="icon72dd86df" />
@@ -4794,6 +4794,9 @@
 
     <!--CC直播-->
     <item component="ComponentInfo{com.netease.cc/com.netease.cc.AppStart}" drawable="iconac168dcc" />
+
+    <!--网易爆米花-->
+    <item component="ComponentInfo{com.netease.filmlytv/com.netease.filmlytv.activity.LaunchActivity}" drawable="icon_popcorn" />
 
     <!--中国大学MOOC-->
     <item component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}" drawable="icon34f2df36" />
