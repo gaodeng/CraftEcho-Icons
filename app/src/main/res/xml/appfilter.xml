@@ -1763,16 +1763,16 @@
     <item component="ComponentInfo{com.instaero.android/com.instaero.android.activity.MainTabActivity}" drawable="icon6b69d976" />
 
     <!--YouTube-->
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="icon9c1ac6f1" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="icon_youtube" />
 
     <!--YouTube-->
-    <item component="ComponentInfo{com.lara.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="icon9c1ac6f1" />
+    <item component="ComponentInfo{com.lara.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="icon_youtube" />
 
     <!--YouTube-->
-    <item component="ComponentInfo{com.paraphron.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="icon9c1ac6f1" />
+    <item component="ComponentInfo{com.paraphron.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="icon_youtube" />
 
     <!--YouTube-->
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon9c1ac6f1" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon_youtube" />
 
     <!--Gmail-->
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="icon_gmail" />
