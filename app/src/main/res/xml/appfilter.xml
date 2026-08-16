@@ -1240,7 +1240,7 @@
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="iconf133f104" />
 
     <!--支付宝-->
-    <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="icon727ff5f5" />
+    <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="icon_alipay" />
 
     <!--指南针-->
     <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="icon58eee55e" />
