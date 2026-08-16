@@ -5992,6 +5992,9 @@
     <!--静读天下专业版-->
     <item component="ComponentInfo{com.flyersoft.moonreaderpj/com.flyersoft.moonreaderpj.ActivityMain}" drawable="icond6212079" />
 
+    <!--Moon FM-->
+    <item component="ComponentInfo{fm.moon.app/com.icyarrow.haloradio.MainActivity}" drawable="icon_moonfm" />
+
     <!--百度知道-->
     <item component="ComponentInfo{com.baidu.iknow/com.baidu.iknow.activity.common.SplashActivity}" drawable="icon80165d10" />
 
