@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.10" />
+    <item text="Updated YouTube and Alipay icons, added Moon FM icon" />
     <version title="v1.0.9" />
     <item text="Updated YouTube, Chrome, and NetEase Popcorn icons" />
     <version title="v1.0.8" />
