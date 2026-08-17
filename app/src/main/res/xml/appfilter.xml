@@ -10,7 +10,7 @@
     <iconupon />
 
     <!--Smartisan OS-->
-    <item component="ComponentInfo{com.bytemyth.craftecho.icons/dev.jahir.blueprint.app.MainActivity}" drawable="iconea4a36c1" />
+    <item component="ComponentInfo{com.bytemyth.craftecho.icons/dev.jahir.blueprint.app.MainActivity}" drawable="icon_craftecho" />
 
     <!--时钟-->
     <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="icon8c479ae4" />
