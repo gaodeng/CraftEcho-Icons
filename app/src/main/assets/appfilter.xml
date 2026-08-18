@@ -8250,4 +8250,5 @@
 
     <!--Longbridge-->
     <item component="ComponentInfo{global.longbridge.app.android/global.longbridge.android.LaunchActivity}" drawable="icon_longbridge" />
+    <item component="ComponentInfo{global.longbridge.sg.android/global.longbridge.android.LaunchActivity}" drawable="icon_longbridge" />
 </resources>
