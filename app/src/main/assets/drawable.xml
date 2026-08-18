@@ -5775,4 +5775,6 @@
 
 
     <item name="风鸟" drawable="icon1b970f15" />
+
+    <item name="Longbridge" drawable="icon_longbridge" />
 </resources>

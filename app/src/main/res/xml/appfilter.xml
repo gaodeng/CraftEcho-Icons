@@ -8247,4 +8247,7 @@
 
     <!--风鸟-->
     <item component="ComponentInfo{com.xinshucredit.riskbird/io.dcloud.PandoraEntry}" drawable="icon1b970f15" />
+
+    <!--Longbridge-->
+    <item component="ComponentInfo{global.longbridge.app.android/global.longbridge.android.LaunchActivity}" drawable="icon_longbridge" />
 </resources>
