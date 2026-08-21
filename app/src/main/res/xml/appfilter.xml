@@ -1472,7 +1472,7 @@
     <item component="ComponentInfo{com.taobao.movie.android/com.taobao.movie.android.app.home.activity.SplashActivity}" drawable="iconf18f5c07" />
 
     <!--铁路12306-->
-    <item component="ComponentInfo{com.chinarailway.globalticketing/com.MobileTicket.ui.activity.WelcomeGuideActivity}" drawable="icon9bf9ad8b" />
+    <item component="ComponentInfo{com.chinarailway.globalticketing/com.MobileTicket.ui.activity.WelcomeGuideActivity}" drawable="icon_railway_12306" />
 
     <!--豆瓣阅读-->
     <item component="ComponentInfo{com.douban.book.reader/com.douban.book.reader.activity.SplashActivity}" drawable="iconbf5187f1" />
