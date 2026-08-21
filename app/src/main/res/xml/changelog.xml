@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.15" />
+    <item text="Updated launcher, CraftEcho, and Railway 12306 icons" />
     <version title="v1.0.14" />
     <item text="Added icon support for Longbridge Singapore" />
     <version title="v1.0.13" />
