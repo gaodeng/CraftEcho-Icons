@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.18" />
+    <item text="Renamed icon resources with meaningful names and updated icon mappings" />
     <version title="v1.0.17" />
     <item text="Updated the DeepSeek icon" />
     <version title="v1.0.16" />
