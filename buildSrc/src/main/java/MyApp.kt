@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "com.bytemyth.craftecho.icons"
-    const val version = 19
-    const val versionName = "1.0.18"
+    const val version = 20
+    const val versionName = "1.0.19"
 }
