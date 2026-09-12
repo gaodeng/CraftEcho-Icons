@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.20" />
+    <item text="Updated the TP-LINK IoT icon" />
     <version title="v1.0.19" />
     <item text="Updated the TP-LINK IoT icon" />
     <version title="v1.0.18" />
